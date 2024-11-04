@@ -27,6 +27,16 @@ period_dict = {
     None: pylast.PERIOD_OVERALL,
 }
 
+title = "TuneSync"
+# Use a music icon
+icon = "🎧"
+st.set_page_config(
+    page_title=title,
+    page_icon=icon,
+    layout="centered",
+    initial_sidebar_state="auto",
+)
+
 st.title("My Music Dashboard")
 
 # add a subtitle with total play count

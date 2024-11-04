@@ -1,4 +1,4 @@
-My Music Dashboard
+TuneSync
 ================
 
 **Under Construction**
