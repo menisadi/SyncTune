@@ -143,10 +143,3 @@ more_top_artists = get_top_artists(time_period, limit=20)
 all_tags = get_top_genres(more_top_artists, limit=0, prune_tag_list=3)
 st.subheader("Word Cloud of Top Tags")
 display_wordcloud(all_tags)
-
-# Display top 3 genres
-st.subheader("Top 3 Genres")
-top_genres = get_top_genres(top_artists, limit=3, prune_tag_list=3)
-for genre, weight in top_genres:
-    st.write(f"**{genre}**")
-    st.progress(int(weight / max([w for _, w in top_genres]) * 100))
