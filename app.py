@@ -1,5 +1,6 @@
+import numpy as np
 from typing import List, Tuple
-from wordcloud import WordCloud
+from wordcloud import WordCloud, get_single_color_func
 import matplotlib.pyplot as plt
 from collections import Counter
 import pylast
@@ -31,7 +32,6 @@ period_dict = {
 }
 
 title = "TuneSync"
-# Use a music icon
 icon = "🎧"
 st.set_page_config(
     page_title=title,
@@ -57,19 +57,21 @@ st.sidebar.markdown("Made by [Meni](https://github.com/menisadi)")
 st.sidebar.markdown("Powered by [Last.fm](https://www.last.fm/)")
 
 # Display current playing track
+st.subheader("Now Playing")
 now_playing = network.get_user(USERNAME).get_now_playing()
 if now_playing:
     track = network.get_track(now_playing.artist, now_playing.title)
     album = now_playing.get_album().get_name()
     album_image_url = now_playing.get_cover_image()
 
-    col1, col2 = st.columns([1, 3])  # Adjust the proportions as needed
+    col1, col2 = st.columns([1, 4])
 
     with col1:
         if album_image_url:
             st.image(
-                album_image_url, caption="", width=100
-            )  # Adjust width for smaller image
+                album_image_url,
+                caption="",
+            )
         else:
             st.write("")  # Fallback in case there is no image
 
@@ -79,20 +81,22 @@ if now_playing:
         st.markdown(f"**Title**: {now_playing.title}")
 
 
-def display_wordcloud(genres: List[Tuple[str, float]]):
-    genres_dict = dict(genres)
-    wordcloud = WordCloud(
-        width=400,
-        height=400,
-        background_color="#282a36",
-        contour_color="#bd93f9",
-        contour_width=3,
-    ).generate_from_frequencies(genres_dict)
+def display_wordcloud(tags_list: List[Tuple[str, float]]):
+    x, y = np.ogrid[:300, :300]
+    mask = (x - 150) ** 2 + (y - 150) ** 2 > 130**2
+    mask = 255 * mask.astype(int)
 
-    # plt.figure(figsize=(3, 3))
-    # plt.imshow(wordcloud, interpolation="bilinear")
-    # plt.axis("off")
-    # st.pyplot(plt.gcf())
+    tags_dict = dict(tags_list)
+    wordcloud = WordCloud(
+        width=500,
+        height=500,
+        mask=mask,
+        background_color="#282a36",
+        contour_color="#282a36",
+        contour_width=3,
+    ).generate_from_frequencies(tags_dict)
+    wordcloud.recolor(color_func=get_single_color_func("#f8f8f2"))
+
     st.image(wordcloud.to_array())
 
 
@@ -110,23 +114,26 @@ def normalize_weights(tags: List[Tuple[str, int]]) -> List[Tuple[str, float]]:
     return [(t, w / max_weight) for t, w in tags]
 
 
-def get_top_genres(
+def get_top_tags(
     top_artists: List[Tuple[str, int]], limit: int = 0, prune_tag_list: int = 0
 ) -> List[Tuple[str, float]]:
     tags = dict()
     for artist, artist_weight in top_artists:
-        top_genres = network.get_artist(artist).get_top_tags(limit=prune_tag_list)
-        for genre in top_genres:
-            if genre.item.name in tags:
-                tags[genre.item.name] += int(genre.weight) * artist_weight
+        top_tags = network.get_artist(artist).get_top_tags(limit=prune_tag_list)
+        for one_tag in top_tags:
+            # exclude the "seen live", as it is not interesting
+            if one_tag.item.name == "seen live":
+                continue
+            if one_tag.item.name in tags:
+                tags[one_tag.item.name] += int(one_tag.weight) * artist_weight
             else:
-                tags[genre.item.name] = int(genre.weight) * artist_weight
+                tags[one_tag.item.name] = int(one_tag.weight) * artist_weight
 
     normalized_tags = normalize_weights(list(tags.items()))
     if limit == 0:
         return normalized_tags
     else:
-        # return the top genres in descending order of weight
+        # return the top tags in descending order of weight
         limited_tags = sorted(normalized_tags, key=lambda x: x[1], reverse=True)[:limit]
         return limited_tags
 
@@ -134,12 +141,18 @@ def get_top_genres(
 # Display top 3 artists
 st.subheader("Top 3 Artists")
 top_artists = get_top_artists(time_period, limit=3)
+max_weight = max([w for _, w in top_artists])
+
 for artist, weight in top_artists:
-    st.write(f"**{artist}**")
-    st.progress(int(weight / max([w for _, w in top_artists]) * 100))
+    col1, col2 = st.columns([1, 3])
+    with col1:
+        st.write(f"**{artist}**")
+    with col2:
+        st.progress(int(weight / max_weight * 100))
 
 # Tags wordcloud
+# TODO: add mask to the cloud
 more_top_artists = get_top_artists(time_period, limit=20)
-all_tags = get_top_genres(more_top_artists, limit=0, prune_tag_list=3)
+all_tags = get_top_tags(more_top_artists, limit=0, prune_tag_list=3)
 st.subheader("Word Cloud of Top Tags")
 display_wordcloud(all_tags)
