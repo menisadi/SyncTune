@@ -42,7 +42,7 @@ st.set_page_config(
     page_title=title,
     page_icon=icon,
     layout="centered",
-    # initial_sidebar_state="auto",
+    initial_sidebar_state="auto",
 )
 
 st.title("TuneSync")
@@ -50,7 +50,6 @@ st.title("TuneSync")
 total_count = network.get_user(USERNAME).get_playcount()
 st.write(f"Total Play Count: {total_count}")
 
-# st.sidebar.markdown("---")
 st.sidebar.markdown("Made by [Meni](https://github.com/menisadi)")
 st.sidebar.markdown("Powered by [Last.fm](https://www.last.fm/)")
 
@@ -94,11 +93,6 @@ time_period = period_dict.get(chosen_time_period)
 
 
 def display_wordcloud(tags_list: List[Tuple[str, float]]):
-    # x, y = np.ogrid[:300, :300]
-    # circle mask
-    # circle_mask = (x - 150) ** 2 + (y - 150) ** 2 > 130**2
-    # circle_mask = 255 * circle_mask.astype(int)
-
     tags_dict = dict(tags_list)
     wordcloud = WordCloud(
         width=230,
@@ -106,7 +100,6 @@ def display_wordcloud(tags_list: List[Tuple[str, float]]):
         background_color="#282a36",
         contour_color="#282a36",
         contour_width=3,
-        # mask=mask,
     ).generate_from_frequencies(tags_dict)
     wordcloud.recolor(color_func=get_single_color_func("#f8f8f2"))
 
@@ -157,10 +150,12 @@ top_artists = get_top_artists(time_period, limit=3)
 max_weight = max([w for _, w in top_artists])
 
 for artist, weight in top_artists:
-    col1, col2 = st.columns([1, 3])
+    col1, col2, col3 = st.columns([4, 1, 7])
     with col1:
         st.write(f"**{artist}**")
     with col2:
+        st.write(f"**{weight}**")
+    with col3:
         st.progress(int(weight / max_weight * 100))
 
 # Tags wordcloud
