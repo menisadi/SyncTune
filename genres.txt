@@ -1,0 +1,6046 @@
+1: pop
+2: dance pop
+3: rap
+4: rock
+5: hip hop
+6: urbano latino
+7: pop rap
+8: edm
+9: reggaeton
+10: latin pop
+11: trap
+12: modern rock
+13: r&b
+14: classic rock
+15: pop dance
+16: musica mexicana
+17: trap latino
+18: post-teen pop
+19: permanent wave
+20: tropical house
+21: mellow gold
+22: nueva musica mexicana
+23: alternative metal
+24: soft rock
+25: k-pop
+26: contemporary country
+27: pop rock
+28: album rock
+29: canadian pop
+30: filmi
+31: electropop
+32: desi pop
+33: urban contemporary
+34: nu metal
+35: country
+36: indie pop
+37: southern hip hop
+38: modern bollywood
+39: melodic rap
+40: hard rock
+41: alternative rock
+42: electro house
+43: uk pop
+44: latin hip hop
+45: corrido
+46: sad sierreno
+47: rock en espanol
+48: viral rap
+49: tropical
+50: gangster rap
+51: ranchera
+52: neo mellow
+53: art pop
+54: atl hip hop
+55: alt z
+56: country road
+57: reggaeton colombiano
+58: adult standards
+59: colombian pop
+60: french hip hop
+61: new wave pop
+62: arrocha
+63: latin alternative
+64: norteno
+65: pop urbaine
+66: folk rock
+67: art rock
+68: underground hip hop
+69: funk carioca
+70: mexican pop
+71: latin rock
+72: country rock
+73: j-pop
+74: sierreno
+75: house
+76: german hip hop
+77: metal
+78: k-pop boy group
+79: soul
+80: canadian contemporary r&b
+81: europop
+82: corridos tumbados
+83: sertanejo universitario
+84: latin arena pop
+85: indie rock
+86: sertanejo
+87: chicago rap
+88: reggaeton flow
+89: neo soul
+90: hip pop
+91: post-grunge
+92: sertanejo pop
+93: modern alternative rock
+94: indonesian pop
+95: canadian hip hop
+96: new wave
+97: conscious hip hop
+98: stomp and holler
+99: toronto rap
+100: k-pop girl group
+101: rap metal
+102: banda
+103: pop punk
+104: indie folk
+105: spanish pop
+106: blues rock
+107: italian hip hop
+108: east coast hip hop
+109: bedroom pop
+110: trap argentino
+111: singer-songwriter
+112: funk
+113: psychedelic rock
+114: viral pop
+115: francoton
+116: indie poptimism
+117: new romantic
+118: dark trap
+119: alternative hip hop
+120: slap house
+121: emo rap
+122: west coast rap
+123: alternative r&b
+124: quiet storm
+125: hoerspiel
+126: indie soul
+127: miami hip hop
+128: boy band
+129: desi hip hop
+130: puerto rican pop
+131: progressive house
+132: electronica
+133: indietronica
+134: uk dance
+135: ccm
+136: punjabi pop
+137: folk
+138: glam rock
+139: piano rock
+140: rap francais
+141: argentine rock
+142: sleep
+143: drift phonk
+144: punk
+145: chill r&b
+146: disco
+147: mpb
+148: argentine hip hop
+149: italian pop
+150: mexican hip hop
+151: indie r&b
+152: hardcore hip hop
+153: german pop
+154: detroit hip hop
+155: big room
+156: opm
+157: metropopolis
+158: swedish pop
+159: tamil pop
+160: urbano espanol
+161: escape room
+162: vapor trap
+163: turkish pop
+164: australian pop
+165: synthpop
+166: garage rock
+167: lounge
+168: anime
+169: roots rock
+170: worship
+171: classical
+172: rap rock
+173: pagode
+174: french pop
+175: metalcore
+176: nigerian pop
+177: hollywood
+178: talent show
+179: pop edm
+180: heartland rock
+181: folk-pop
+182: pop nacional
+183: j-rock
+184: british soul
+185: dance rock
+186: pluggnb
+187: italian adult pop
+188: christian music
+189: new french touch
+190: grupera
+191: pop r&b
+192: sad rap
+193: polish hip hop
+194: yacht rock
+195: progressive electro house
+196: lgbtq+ hip hop
+197: contemporary r&b
+198: barbadian pop
+199: funk mtg
+200: soundtrack
+201: mariachi
+202: uk hip hop
+203: alternative dance
+204: brostep
+205: glam metal
+206: world worship
+207: classic soul
+208: gen z singer-songwriter
+209: trap triste
+210: funk metal
+211: sad lo-fi
+212: trap queen
+213: lo-fi beats
+214: dirty south rap
+215: dream pop
+216: brazilian rock
+217: aesthetic rap
+218: trap italiana
+219: mandopop
+220: christian alternative rock
+221: pop venezolano
+222: rap conscient
+223: new americana
+224: salsa
+225: cantautor
+226: modern country rock
+227: vocal jazz
+228: british invasion
+229: beatlesque
+230: melancholia
+231: queens hip hop
+232: rock-and-roll
+233: eurodance
+234: mexican rock
+235: memphis hip hop
+236: grunge
+237: forro
+238: emo
+239: cali rap
+240: melodic metalcore
+241: pixel
+242: covertronica
+243: russian hip hop
+244: pop soul
+245: g funk
+246: classic bollywood
+247: orchestral soundtrack
+248: funk rj
+249: symphonic rock
+250: pop reggaeton
+251: urbano mexicano
+252: country pop
+253: new orleans rap
+254: white noise
+255: bachata
+256: outlaw country
+257: screamo
+258: dutch pop
+259: dfw rap
+260: new rave
+261: trap boricua
+262: trance
+263: german rock
+264: brazilian gospel
+265: bubblegum pop
+266: melodic drill
+267: urbano chileno
+268: funk rock
+269: trap brasileiro
+270: axe
+271: brazilian hip hop
+272: compositional ambient
+273: progressive rock
+274: australian dance
+275: nova mpb
+276: brooklyn drill
+277: bolero
+278: neo-classical
+279: japanese teen pop
+280: r&b en espanol
+281: industrial metal
+282: chanson
+283: gruperas inmortales
+284: indiecoustica
+285: sheffield indie
+286: dancehall
+287: florida rap
+288: social media pop
+289: kleine hoerspiel
+290: deboxe
+291: uk contemporary r&b
+292: plugg
+293: show tunes
+294: oklahoma country
+295: acoustic pop
+296: lo-fi chill
+297: j-poprock
+298: dutch hip hop
+299: reggae fusion
+300: north carolina hip hop
+301: candy pop
+302: pop argentino
+303: australian rock
+304: lilith
+305: atl trap
+306: dutch edm
+307: country dawn
+308: funk ostentacao
+309: shimmer pop
+310: downtempo
+311: rockabilly
+312: britpop
+313: philly rap
+314: turkish rock
+315: adoracao
+316: bossa nova
+317: power metal
+318: electronic trap
+319: texas country
+320: girl group
+321: anime rock
+322: german trap
+323: polish trap
+324: modern indie pop
+325: baroque pop
+326: old school thrash
+327: new school turkce rap
+328: deep house
+329: k-rap
+330: norwegian pop
+331: afropop
+332: pittsburgh rap
+333: latin worship
+334: neo-psychedelic
+335: reggae
+336: modern blues rock
+337: vapor soul
+338: taiwan pop
+339: rap canario
+340: turkish hip hop
+341: sophisti-pop
+342: afrofuturism
+343: pixie
+344: turkish trap
+345: merseybeat
+346: classic italian pop
+347: spanish hip hop
+348: rap calme
+349: thrash metal
+350: hyperpop
+351: video game music
+352: la indie
+353: rain
+354: canadian rock
+355: otacore
+356: latin christian
+357: deep groove house
+358: roots reggae
+359: c-pop
+360: nyc rap
+361: dmv rap
+362: lo-fi indie
+363: shoegaze
+364: punjabi hip hop
+365: australian hip hop
+366: easy listening
+367: skate punk
+368: rock nacional
+369: italian indie pop
+370: turkish trap pop
+371: disco house
+372: previa
+373: indian instrumental
+374: french indie pop
+375: dreamo
+376: instrumental lullaby
+377: afro dancehall
+378: dominican pop
+379: latin viral pop
+380: funk paulista
+381: trip hop
+382: tennessee hip hop
+383: motown
+384: anthem worship
+385: pagode novo
+386: industrial rock
+387: russian pop
+388: vapor twitch
+389: danish pop
+390: korean r&b
+391: indie garage rock
+392: chamber pop
+393: samba
+394: ska argentino
+395: jazz
+396: rock nacional brasileiro
+397: southern soul
+398: spanish pop rock
+399: german dance
+400: swedish hip hop
+401: madchester
+402: indonesian pop rock
+403: cumbia villera
+404: electro
+405: bass trap
+406: bubblegum dance
+407: dutch rap pop
+408: scorecore
+409: hip house
+410: rap latina
+411: southern rock
+412: rap espanol
+413: trap soul
+414: german techno
+415: german metal
+416: cancion melodica
+417: mexican indie
+418: nu jazz
+419: ohio hip hop
+420: tejano
+421: comic
+422: meme rap
+423: socal pop punk
+424: chillhop
+425: filter house
+426: chillwave
+427: sufi
+428: christian rock
+429: classic uk pop
+430: electric blues
+431: polish pop
+432: pop emo
+433: rap conciencia
+434: rap marseille
+435: baton rouge rap
+436: glitchcore
+437: movie tunes
+438: swedish trap pop
+439: flamenco urbano
+440: la pop
+441: thai pop
+442: partyschlager
+443: cumbia pop
+444: drill
+445: cumbia sonidera
+446: funk consciente
+447: canadian trap
+448: musica popular colombiana
+449: vocal house
+450: irish rock
+451: cantopop
+452: brooklyn indie
+453: gym hardstyle
+454: rumba
+455: turkish alt pop
+456: nouvelle chanson francaise
+457: background piano
+458: deep new americana
+459: french rock
+460: pagode baiano
+461: children's music
+462: hamburg hip hop
+463: florida drill
+464: mollywood
+465: korean pop
+466: uk post-punk
+467: indonesian indie
+468: groove metal
+469: gaming edm
+470: arrochadeira
+471: pop flamenco
+472: post-punk
+473: swedish electropop
+474: deep german hip hop
+475: grime
+476: indonesian singer-songwriter
+477: anime score
+478: post-disco
+479: japanese alternative rock
+480: industrial
+481: bass house
+482: v-pop
+483: lo-fi jazzhop
+484: uk alternative hip hop
+485: bubblegrunge
+486: schlager
+487: complextro
+488: japanese singer-songwriter
+489: uk drill
+490: jazz pop
+491: minnesota hip hop
+492: bow pop
+493: dutch rock
+494: houston rap
+495: punk blues
+496: tollywood
+497: anti-folk
+498: salsa puertorriquena
+499: perreo
+500: westcoast flow
+501: contemporary vocal jazz
+502: indie rock italiano
+503: mambo chileno
+504: japanese vgm
+505: ambient pop
+506: lullaby
+507: azontobeats
+508: hindi hip hop
+509: belgian hip hop
+510: cumbia
+511: pinoy rock
+512: czsk hip hop
+513: uk alternative pop
+514: rap napoletano
+515: kentucky hip hop
+516: russian dance
+517: australian indie
+518: arabesk
+519: turkish folk
+520: jazz blues
+521: bedroom soul
+522: trap funk
+523: weirdcore
+524: electro latino
+525: early music
+526: vallenato
+527: german underground rap
+528: sped up
+529: swing
+530: jazz fusion
+531: tamil hip hop
+532: scandipop
+533: alternative emo
+534: el paso indie
+535: neue deutsche harte
+536: post-screamo
+537: indie pop rap
+538: pop house
+539: brazilian edm
+540: background music
+541: phonk
+542: neo-synthpop
+543: baroque
+544: drill espanol
+545: nigerian hip hop
+546: alternative country
+547: ocean
+548: classic j-pop
+549: edmonton indie
+550: russian trap
+551: uk metalcore
+552: world
+553: bachata dominicana
+554: canadian singer-songwriter
+555: oxford indie
+556: irish pop
+557: chicago drill
+558: classic canadian rock
+559: nz pop
+560: power pop
+561: broadway
+562: golden age hip hop
+563: redneck
+564: christian pop
+565: german drill
+566: etherpop
+567: indonesian jazz
+568: australian psych
+569: indie surf
+570: pakistani hip hop
+571: rap belge
+572: drum and bass
+573: lo-fi cover
+574: country rap
+575: melodic metal
+576: spanish rock
+577: funk pop
+578: high vibe
+579: belgian edm
+580: blues
+581: deep tropical house
+582: turbo folk
+583: traprun
+584: classic country pop
+585: indie anthem-folk
+586: melbourne bounce international
+587: rawstyle
+588: big beat
+589: jam band
+590: cumbia 420
+591: j-pixie
+592: gauze pop
+593: lo-fi product
+594: future bass
+595: late romantic era
+596: chill pop
+597: argentine indie
+598: new york drill
+599: french indietronica
+600: new age
+601: vocaloid
+602: meditation
+603: norwegian indie
+604: classic pakistani pop
+605: turkce drill
+606: pop peruano
+607: indie triste
+608: classic swedish pop
+609: pop rock brasileiro
+610: polish alternative rap
+611: finnish dance pop
+612: pinoy hip hop
+613: death metal
+614: memphis soul
+615: australian electropop
+616: coverchill
+617: rap dominicano
+618: modern blues
+619: sacramento indie
+620: j-idol
+621: canadian metal
+622: chilean rock
+623: hare krishna
+624: minimal techno
+625: tech house
+626: early romantic era
+627: musica chihuahuense
+628: aussietronica
+629: swamp rock
+630: indie jazz
+631: pop rap brasileiro
+632: jazz funk
+633: euphoric hardstyle
+634: desi trap
+635: old school atlanta hip hop
+636: melodic dubstep
+637: irish singer-songwriter
+638: modern folk rock
+639: romanian pop
+640: noise pop
+641: protopunk
+642: canadian indie
+643: brazilian reggae
+644: celtic rock
+645: tagalog rap
+646: norteno-sax
+647: modern alternative pop
+648: malaysian pop
+649: kindermusik
+650: crunk
+651: post-hardcore
+652: progressive metal
+653: finnish pop
+654: moroccan pop
+655: speed metal
+656: sertanejo tradicional
+657: post-romantic era
+658: classical era
+659: p-pop
+660: soul blues
+661: nu-cumbia
+662: swedish gangsta rap
+663: nyc pop
+664: dubstep
+665: smooth jazz
+666: stoner rock
+667: bebop
+668: moombahton
+669: post-punk argentina
+670: swedish metal
+671: environmental
+672: lovers rock
+673: old school hip hop
+674: ska
+675: new jack swing
+676: modern dream pop
+677: cuarteto
+678: writing
+679: rap genovese
+680: trap chileno
+681: black americana
+682: uplifting trance
+683: neon pop punk
+684: classic schlager
+685: experimental pop
+686: trova
+687: arab pop
+688: pop lgbtq+ brasileira
+689: neo classical metal
+690: japanese r&b
+691: pop romantico
+692: turkish alternative rock
+693: venezuelan hip hop
+694: kollywood
+695: german alternative rap
+696: panamanian pop
+697: trap mexicano
+698: j-rap
+699: turkish singer-songwriter
+700: chicano rap
+701: south african pop
+702: finnish hip hop
+703: visual kei
+704: shiver pop
+705: pinoy indie
+706: cartoon
+707: nashville sound
+708: chill drill
+709: dutch house
+710: indie hip hop
+711: modern salsa
+712: czech hip hop
+713: acid rock
+714: modern hard rock
+715: musica para ninos
+716: corridos alternativos
+717: reggae en espanol
+718: belgian pop
+719: ska punk
+720: greek pop
+721: christian hip hop
+722: birmingham metal
+723: drill francais
+724: torch song
+725: albanian hip hop
+726: classic soundtrack
+727: gujarati pop
+728: piano cover
+729: german soundtrack
+730: turntablism
+731: british blues
+732: reggaeton mexicano
+733: arkansas country
+734: german cloud rap
+735: indian indie
+736: sunshine pop
+737: epicore
+738: deep underground hip hop
+739: jazz rap
+740: ambient
+741: ghazal
+742: detroit trap
+743: deep euro house
+744: british singer-songwriter
+745: german indie
+746: dub
+747: progressive bluegrass
+748: nu disco
+749: greek trap
+750: stride
+751: swedish trap
+752: rock cristiano
+753: indonesian rock
+754: acoustic cover
+755: celtic
+756: new jersey rap
+757: preschool children's music
+758: albanian pop
+759: small room
+760: pakistani pop
+761: instrumental worship
+762: bossbeat
+763: roots worship
+764: milan indie
+765: gothic metal
+766: funk bh
+767: boom bap espanol
+768: anthem emo
+769: political hip hop
+770: dangdut
+771: rap politico
+772: modern reggae
+773: cumbia chilena
+774: canadian country
+775: melodic death metal
+776: background jazz
+777: philly indie
+778: dancefloor dnb
+779: israeli pop
+780: german baroque
+781: chinese viral pop
+782: japanese soundtrack
+783: crank wave
+784: afro soul
+785: canadian electronic
+786: chamber psych
+787: kentucky roots
+788: anime lo-fi
+789: calming instrumental
+790: progressive trance
+791: double drumming
+792: ukrainian pop
+793: rkt
+794: dembow
+795: lagu jawa
+796: chicago indie
+797: german romanticism
+798: zolo
+799: neo-singer-songwriter
+800: hardcore punk
+801: basshall
+802: reggae rock
+803: focus beats
+804: gospel
+805: operatic pop
+806: japanese emo
+807: musica infantil
+808: speedrun
+809: microhouse
+810: swedish synthpop
+811: hindi indie
+812: tecnobanda
+813: oakland hip hop
+814: supergroup
+815: musica sonorense
+816: classic hardstyle
+817: french reggae
+818: brill building pop
+819: japanese chillhop
+820: j-division
+821: canadian punk
+822: bossa nova cover
+823: deathcore
+824: chutney
+825: rhythm and blues
+826: modern power pop
+827: indie punk
+828: south carolina hip hop
+829: afroswing
+830: r&b brasileiro
+831: indie game soundtrack
+832: dance-punk
+833: hi-nrg
+834: pop electronico
+835: classic indonesian rock
+836: reggaeton chileno
+837: classic mandopop
+838: trancecore
+839: british soundtrack
+840: french synthpop
+841: uk funky
+842: australian alternative rock
+843: electra
+844: latin jazz
+845: classic opm
+846: christian indie
+847: slowcore
+848: london rap
+849: symphonic metal
+850: argentine reggae
+851: spanish indie pop
+852: dutch trance
+853: classic sierreno
+854: latin talent show
+855: seattle hip hop
+856: salsa colombiana
+857: focus
+858: swedish idol pop
+859: danspunk
+860: nwobhm
+861: classify
+862: roots americana
+863: afro r&b
+864: boston rock
+865: polish alternative
+866: ska mexicano
+867: cumbia peruana
+868: egyptian pop
+869: boom bap
+870: rock urbano mexicano
+871: hungarian pop
+872: jamaican dancehall
+873: hard rock brasileiro
+874: vancouver indie
+875: argentine telepop
+876: anadolu rock
+877: frauenrap
+878: italian underground hip hop
+879: scottish rock
+880: comic metal
+881: folklore argentino
+882: nederpop
+883: gymcore
+884: melodic hardcore
+885: velha guarda
+886: rome indie
+887: chinese indie
+888: laiko
+889: musica de fondo
+890: jazz trumpet
+891: intelligent dance music
+892: ambient worship
+893: persian pop
+894: grupero romantico
+895: diva house
+896: trap baiano
+897: experimental
+898: rebel blues
+899: pinoy r&b
+900: indian singer-songwriter
+901: instrumental rock
+902: new jersey underground rap
+903: deep turkish pop
+904: hawaiian hip hop
+905: boston folk
+906: pacific islands pop
+907: shamanic
+908: kentucky indie
+909: manguebeat
+910: northern soul
+911: colombian hip hop
+912: detroit rock
+913: hard bop
+914: christian trap
+915: jazz saxophone
+916: australian indie folk
+917: electronica argentina
+918: toronto indie
+919: psychedelic hip hop
+920: uk contemporary jazz
+921: sigilkore
+922: indie quebecois
+923: rif
+924: organic house
+925: slayer
+926: k-indie
+927: funk mandelao
+928: big band
+929: indonesian folk
+930: dangdut koplo
+931: korean ost
+932: deep ccm
+933: spanish new wave
+934: canadian contemporary country
+935: japanese soul
+936: italo dance
+937: dark clubbing
+938: cool jazz
+939: g-house
+940: taiwan singer-songwriter
+941: danish hip hop
+942: finnish metal
+943: banda jalisciense
+944: impressionism
+945: old school rap francais
+946: rap df
+947: hardcore techno
+948: tropicalia
+949: turkish jazz
+950: dark pop
+951: gothic symphonic metal
+952: corridos clasicos
+953: rock gospel brasileiro
+954: canadian pop punk
+955: turkce slow sarkilar
+956: baltimore indie
+957: doo-wop
+958: russian rock
+959: j-acoustic
+960: rap cristiano
+961: synthwave
+962: pub rock
+963: antiviral pop
+964: rock alternativo brasileiro
+965: mainland chinese pop
+966: suomi rock
+967: traditional blues
+968: sleaze rock
+969: javanese dangdut
+970: tierra caliente
+971: stoner metal
+972: russelater
+973: british folk
+974: middle earth
+975: hardwave
+976: anime rap
+977: uk americana
+978: mexican rock-and-roll
+979: russian alt pop
+980: indonesian pop punk
+981: folk brasileiro
+982: melbourne bounce
+983: chicago bop
+984: bolero mexicano
+985: lo-fi rap
+986: minneapolis sound
+987: levenslied
+988: tekk
+989: pinoy trap
+990: jazz piano
+991: lo-fi vgm
+992: philly soul
+993: rock drums
+994: hyphy
+995: ambient folk
+996: happy hardcore
+997: alternative pop rock
+998: hands up
+999: canzone d'autore
+1000: german singer-songwriter
+1001: champeta
+1002: czech rock
+1003: modern southern rock
+1004: bhojpuri pop
+1005: swedish indie pop
+1006: uptempo hardcore
+1007: russian drain
+1008: alabama rap
+1009: arabic hip hop
+1010: jazz boom bap
+1011: contemporary jazz
+1012: lo-fi
+1013: west coast trap
+1014: water
+1015: norwegian pop rap
+1016: indonesian r&b
+1017: ukrainian rock
+1018: j-pop boy group
+1019: scream rap
+1020: brighton indie
+1021: carnaval
+1022: latin metal
+1023: red dirt
+1024: german hard rock
+1025: rap underground mexicano
+1026: australian reggae fusion
+1027: classic tollywood
+1028: greek hip hop
+1029: afrofuturismo brasileiro
+1030: singaporean pop
+1031: azonto
+1032: variete francaise
+1033: new jersey indie
+1034: cubaton
+1035: early modern classical
+1036: italian disco
+1037: rap mineiro
+1038: vietnamese hip hop
+1039: nu-metalcore
+1040: indonesian alternative rock
+1041: american metalcore
+1042: float house
+1043: taiwan indie
+1044: soul jazz
+1045: indonesian viral pop
+1046: scam rap
+1047: rap maroc
+1048: cumbia ranchera
+1049: bronx drill
+1050: indonesian folk pop
+1051: jazz cover
+1052: asmr
+1053: st louis rap
+1054: sound
+1055: rap baiano
+1056: indie electropop
+1057: duranguense
+1058: musica bajacaliforniana
+1059: classic cantopop
+1060: english indie rock
+1061: jazztronica
+1062: spacegrunge
+1063: hk-pop
+1064: musica catalana
+1065: chilean indie
+1066: rock uruguayo
+1067: electronic rock
+1068: uk dnb
+1069: classic city pop
+1070: canadian latin
+1071: japanese electropop
+1072: rap tunisien
+1073: trap carioca
+1074: rap chileno
+1075: rai
+1076: classic indo pop
+1077: swedish drill
+1078: new age piano
+1079: future house
+1080: art punk
+1081: haryanvi hip hop
+1082: experimental hip hop
+1083: liedermacher
+1084: italian pop rock
+1085: alte
+1086: kirtan
+1087: latin afrobeat
+1088: modern funk
+1089: ukrainian viral pop
+1090: flamenco
+1091: spanish punk
+1092: rhythm game
+1093: swedish singer-songwriter
+1094: cancion infantil latinoamericana
+1095: thai indie pop
+1096: swedish melodeath
+1097: djent
+1098: fourth world
+1099: tex-mex
+1100: abstract hip hop
+1101: zhongguo feng
+1102: greek drill
+1103: jawaiian
+1104: uk doom metal
+1105: australian garage punk
+1106: bluegrass
+1107: australian country
+1108: wonky
+1109: swedish power metal
+1110: athens indie
+1111: pinoy reggae
+1112: women's music
+1113: sholawat
+1114: discofox
+1115: synth funk
+1116: nu gaze
+1117: old school dancehall
+1118: instrumental funk
+1119: cyberpunk
+1120: turkish alternative
+1121: proto-hyperpop
+1122: medieval rock
+1123: retro soul
+1124: bhangra
+1125: rap underground espanol
+1126: proto-metal
+1127: nueva cancion
+1128: musica tlaxcalteca
+1129: hip hop tuga
+1130: karadeniz turkuleri
+1131: jazz guitar
+1132: austindie
+1133: classic kollywood
+1134: tamaulipas rap
+1135: spanish metal
+1136: asian american hip hop
+1137: liquid funk
+1138: rhode island rap
+1139: ethnotronica
+1140: swedish tropical house
+1141: australian talent show
+1142: brazilian ccm
+1143: stomp pop
+1144: swedish death metal
+1145: vegas indie
+1146: forro de favela
+1147: cumbia santafesina
+1148: indonesian lo-fi pop
+1149: idol rock
+1150: german punk
+1151: pet calming
+1152: samba reggae
+1153: electro swing
+1154: melodic thrash
+1155: neoperreo
+1156: russian dance pop
+1157: dark synthpop
+1158: romanian trap
+1159: portuguese pop
+1160: solo wave
+1161: hardstyle
+1162: newcastle nsw indie
+1163: german house
+1164: acoustic opm
+1165: livetronica
+1166: bases de freestyle
+1167: mississippi hip hop
+1168: russian gangster rap
+1169: morelos indie
+1170: post-rock
+1171: chicha
+1172: progressive post-hardcore
+1173: future garage
+1174: classic norwegian pop
+1175: bhajan
+1176: italian baroque
+1177: classic girl group
+1178: banda sinaloense
+1179: funk 150 bpm
+1180: organic electronic
+1181: russian romanticism
+1182: vallenato moderno
+1183: brazilian jazz
+1184: harlem renaissance
+1185: danish rock
+1186: oc rap
+1187: garage rock revival
+1188: haryanvi pop
+1189: israeli mediterranean
+1190: traphall
+1191: neoclassical darkwave
+1192: argentine alternative rock
+1193: virginia hip hop
+1194: cosmic american
+1195: eau claire indie
+1196: boston hip hop
+1197: pop folk
+1198: scottish singer-songwriter
+1199: barnmusik
+1200: nasheed
+1201: electropowerpop
+1202: ye ye
+1203: manchester hip hop
+1204: rap inde
+1205: psychedelic soul
+1206: funk viral
+1207: electro-pop francais
+1208: gospel antigas
+1209: j-metal
+1210: indian lo-fi
+1211: chicago punk
+1212: kolsche karneval
+1213: japanese classical
+1214: medieval folk
+1215: wave
+1216: czech pop
+1217: polish classical
+1218: rap algerien
+1219: dinner jazz
+1220: indonesian worship
+1221: ecuadorian pop
+1222: rave funk
+1223: bubble trance
+1224: finnish power metal
+1225: swedish pop rap
+1226: bronx hip hop
+1227: kermis
+1228: classic danish pop
+1229: trap colombiano
+1230: slowed and reverb
+1231: trap venezolano
+1232: canadian soundtrack
+1233: j-pop girl group
+1234: breakbeat
+1235: future funk
+1236: ottawa rap
+1237: uk reggae
+1238: dutch indie
+1239: rock kapak
+1240: gaming dubstep
+1241: manele
+1242: a cappella
+1243: groove room
+1244: chillstep
+1245: canadian electropop
+1246: swedish alternative rock
+1247: musica tradicional cubana
+1248: rap cearense
+1249: australian children's music
+1250: hamburg electronic
+1251: classic russian rock
+1252: lata
+1253: aussie drill
+1254: pop virale italiano
+1255: folk punk
+1256: upstate ny rap
+1257: deep disco house
+1258: batidao romantico
+1259: rock brasiliense
+1260: lebanese pop
+1261: salsa venezolana
+1262: oakland indie
+1263: indie viet
+1264: rap geek
+1265: thai indie rock
+1266: australian metalcore
+1267: irish folk
+1268: indian edm
+1269: veracruz indie
+1270: iskelma
+1271: merengue
+1272: nashville hip hop
+1273: japanese punk rock
+1274: drone
+1275: banda carnavalera
+1276: swiss indie
+1277: rocksteady
+1278: icelandic indie
+1279: liverpool indie
+1280: nightcore
+1281: french soundtrack
+1282: nursery
+1283: russian emo rap
+1284: afro house
+1285: indonesian hip hop
+1286: cumbia del sureste
+1287: vapor pop
+1288: violao
+1289: chillsynth
+1290: afghan pop
+1291: funky tech house
+1292: pop violin
+1293: swedish jazz
+1294: german power metal
+1295: alternative pop
+1296: indian folk
+1297: black metal
+1298: experimental r&b
+1299: christian metal
+1300: belgian dance
+1301: australian alternative pop
+1302: progressive metalcore
+1303: reggaeton cristiano
+1304: egyptian hip hop
+1305: sandalwood
+1306: jovem guarda
+1307: australian house
+1308: danish electronic
+1309: prog metal
+1310: surf punk
+1311: barnsagor
+1312: cologne indie
+1313: grave wave
+1314: vietnamese melodic rap
+1315: neue neue deutsche welle
+1316: singaporean mandopop
+1317: rock gaucho
+1318: regional mexicano femenil
+1319: bandung indie
+1320: binaural
+1321: pianissimo
+1322: welsh rock
+1323: palm desert scene
+1324: nz reggae
+1325: israeli rock
+1326: chicago soul
+1327: christmas instrumental
+1328: psychedelic trance
+1329: afrobeat
+1330: lo-fi emo
+1331: russian post-punk
+1332: harlem hip hop
+1333: austropop
+1334: kazakh pop
+1335: healing
+1336: brazilian indie
+1337: danish metal
+1338: nintendocore
+1339: german reggae
+1340: soca
+1341: british indie rock
+1342: salsa international
+1343: dansband
+1344: nerdcore brasileiro
+1345: french shoegaze
+1346: gothenburg metal
+1347: thai rock
+1348: funky house
+1349: thai hip hop
+1350: drill chileno
+1351: romanian house
+1352: turkish psych
+1353: sound team
+1354: volksmusik
+1355: boom bap brasileiro
+1356: destroy techno
+1357: czsk emo rap
+1358: swedish indie rock
+1359: midwest emo
+1360: ghanaian pop
+1361: egyptian trap
+1362: icelandic pop
+1363: qawwali
+1364: russian drill
+1365: drill italiana
+1366: scottish new wave
+1367: brutal death metal
+1368: musica triste brasileira
+1369: japanese instrumental
+1370: south african rock
+1371: german pop rock
+1372: boston indie
+1373: trap dominicano
+1374: french romanticism
+1375: minimal tech house
+1376: russian electronic
+1377: cumbia sonorense
+1378: saskatchewan indie
+1379: contemporary post-bop
+1380: teen pop
+1381: shibuya-kei
+1382: pop worship
+1383: turkish deep house
+1384: rock mineiro
+1385: uk bass
+1386: classic israeli pop
+1387: polish viral rap
+1388: classic arab pop
+1389: umbanda
+1390: kayokyoku
+1391: yugoslav rock
+1392: quebec indie
+1393: bitpop
+1394: ethereal wave
+1395: musica para criancas
+1396: chicago hardcore
+1397: dancehall queen
+1398: italian alternative
+1399: colombian rock
+1400: german alternative rock
+1401: stomp and flutter
+1402: nashville singer-songwriter
+1403: seattle indie
+1404: mariachi cristiano
+1405: canzone napoletana
+1406: australian trap
+1407: kizomba
+1408: salsa peruana
+1409: scottish indie
+1410: narco rap
+1411: japanese vtuber
+1412: canadian ccm
+1413: uk house
+1414: italian soundtrack
+1415: dark wave
+1416: okinawan pop
+1417: mexican pop punk
+1418: canadian americana
+1419: doom metal
+1420: deep latin christian
+1421: chinese r&b
+1422: folk rock italiano
+1423: sludge metal
+1424: uk melodic rap
+1425: classic colombian pop
+1426: latinx alternative
+1427: portland hip hop
+1428: guadalajara indie
+1429: naija worship
+1430: celtic metal
+1431: christlicher rap
+1432: digital hardcore
+1433: kiwi rock
+1434: texas metal
+1435: post-minimalism
+1436: opera metal
+1437: south african hip hop
+1438: punk urbano
+1439: icelandic rock
+1440: samba de roda
+1441: glee club
+1442: magyar trap
+1443: french techno
+1444: polish rock
+1445: reggae uruguayo
+1446: chihuahua indie
+1447: noise rock
+1448: austrian pop
+1449: classic turkish pop
+1450: uk pop punk
+1451: chilena
+1452: kabarett
+1453: smooth saxophone
+1454: new orleans jazz
+1455: amapiano
+1456: danish pop rock
+1457: folk metal
+1458: thai trap
+1459: nepali pop
+1460: space rock
+1461: nuevo flamenco
+1462: bulgarian pop
+1463: argentine punk
+1464: progressive groove metal
+1465: latin classical
+1466: romantico
+1467: mexican classic rock
+1468: chill breakcore
+1469: children's folk
+1470: malaysian indie
+1471: vaporwave
+1472: gabba
+1473: vintage italian soundtrack
+1474: north carolina roots
+1475: piseiro
+1476: swedish hard rock
+1477: gothic rock
+1478: j-indie
+1479: rave
+1480: shush
+1481: bc underground hip hop
+1482: classic polish pop
+1483: kazakh hip hop
+1484: comedy rap
+1485: belgian rock
+1486: taiwan hip hop
+1487: piano blues
+1488: washington indie
+1489: south african alternative
+1490: frenchcore
+1491: musica gaucha tradicionalista
+1492: italian romanticism
+1493: samba moderno
+1494: jazz trio
+1495: kosovan pop
+1496: electro jazz
+1497: bergen indie
+1498: idol
+1499: ska revival
+1500: hopebeat
+1501: nordic soundtrack
+1502: zhenskiy rep
+1503: trap catala
+1504: japanese alternative pop
+1505: bergamo indie
+1506: gothenburg indie
+1507: electroclash
+1508: dark techno
+1509: turkce kadin rap
+1510: norwegian rock
+1511: narodna muzika
+1512: belgian indie
+1513: kurdish pop
+1514: indie rock mexicano
+1515: fotbollslatar
+1516: dark post-punk
+1517: spectra
+1518: alternative americana
+1519: symphonic power metal
+1520: indie catala
+1521: buffalo hip hop
+1522: celtic punk
+1523: bay area indie
+1524: rock andaluz
+1525: folktronica
+1526: progressive deathcore
+1527: instrumental grime
+1528: musica costena
+1529: new beat
+1530: antideutsche
+1531: rap catala
+1532: auckland indie
+1533: christian metalcore
+1534: ann arbor indie
+1535: musique pour enfants
+1536: cdo indie
+1537: gospel r&b
+1538: peruvian rock
+1539: muziek voor kinderen
+1540: future rock
+1541: german r&b
+1542: rune folk
+1543: cumbia paraguaya
+1544: canadian folk
+1545: czech folk
+1546: classic garage rock
+1547: hungarian hip hop
+1548: early us punk
+1549: underground rap
+1550: australian indie rock
+1551: channel pop
+1552: study beats
+1553: slovak pop
+1554: technical death metal
+1555: tropical alternativo
+1556: rochester mn indie
+1557: deutschrock
+1558: metallic hardcore
+1559: chill guitar
+1560: jangle pop
+1561: classic malaysian pop
+1562: croatian pop
+1563: uk dancehall
+1564: viking metal
+1565: monterrey indie
+1566: souldies
+1567: icelandic classical
+1568: drain
+1569: neo r&b
+1570: american folk revival
+1571: comedy
+1572: horror punk
+1573: native american
+1574: modern indie folk
+1575: psychedelic doom
+1576: r&b argentino
+1577: german metalcore
+1578: chicago blues
+1579: turkish instrumental
+1580: texas blues
+1581: jamaican hip hop
+1582: jewish pop
+1583: pop chileno
+1584: russian edm
+1585: japanese trap
+1586: central asian hip hop
+1587: spanish folk metal
+1588: rap uliczny
+1589: grungegaze
+1590: rap boricua
+1591: japanese jazz
+1592: lo-fi house
+1593: british alternative rock
+1594: music box
+1595: classic disco polo
+1596: ectofolk
+1597: filthstep
+1598: psychedelic pop
+1599: swedish country
+1600: swedish soul
+1601: bandinhas
+1602: spanish modern rock
+1603: dark jazz
+1604: pop quebecois
+1605: kansas city hip hop
+1606: italian opera
+1607: minimalism
+1608: dixieland
+1609: slc indie
+1610: welsh metal
+1611: indonesian emo
+1612: australian indigenous
+1613: trap antillais
+1614: chinese singer-songwriter
+1615: french tech house
+1616: arab electronic
+1617: deconstructed club
+1618: japanese pop punk
+1619: viking folk
+1620: chill lounge
+1621: mantra
+1622: neomelodici
+1623: balochi pop
+1624: korean old school hip hop
+1625: nottingham hip hop
+1626: louvor
+1627: shanty
+1628: musica aragonesa
+1629: nordic house
+1630: freestyle
+1631: german trance
+1632: transpop
+1633: russian grime
+1634: pastoral
+1635: hungarian rock
+1636: bboy
+1637: jump up
+1638: icelandic experimental
+1639: new jersey hardcore
+1640: acoustic blues
+1641: brisbane indie
+1642: oyun havasi
+1643: portland indie
+1644: maga rap
+1645: sky room
+1646: samba-rock
+1647: north east england indie
+1648: brazilian punk
+1649: chiptune
+1650: idol kayo
+1651: korean instrumental
+1652: turkish edm
+1653: south african house
+1654: puerto rican rock
+1655: khaliji
+1656: diy emo
+1657: acoustic rock
+1658: funk das antigas
+1659: chamame
+1660: latin soundtrack
+1661: louisiana blues
+1662: neoclassicism
+1663: world fusion
+1664: partido alto
+1665: russian punk
+1666: classic russian pop
+1667: ska chileno
+1668: italian lounge
+1669: hip hop quebecois
+1670: brega funk
+1671: musica andina
+1672: scenecore
+1673: tecnobrega
+1674: magyar alternative
+1675: indonesian reggae
+1676: norwegian hip hop
+1677: kindie rock
+1678: nederlandse hardstyle
+1679: karneval
+1680: emo rap italiano
+1681: uk experimental electronic
+1682: texas pop punk
+1683: steampunk
+1684: glitchbreak
+1685: parody
+1686: malayalam pop
+1687: nova musica pernambucana
+1688: japanese viral pop
+1689: balkan trap
+1690: kavkaz
+1691: afrikaans
+1692: garage psych
+1693: japanese metalcore
+1694: swedish indie folk
+1695: huzunlu sarkilar
+1696: volkspop
+1697: j-ambient
+1698: balkan hip hop
+1699: texas latin rap
+1700: east coast reggae
+1701: northern irish indie
+1702: swedish eurodance
+1703: ebm
+1704: chicago house
+1705: colombian indie
+1706: experimental rock
+1707: australian r&b
+1708: ecm-style jazz
+1709: czech drill
+1710: egyptian alternative
+1711: samba-jazz
+1712: israeli hip hop
+1713: belly dance
+1714: rap baixada fluminense
+1715: glitch hop
+1716: piano worship
+1717: melodic techno
+1718: scandinavian r&b
+1719: san marcos tx indie
+1720: reggae tuga
+1721: kawaii future bass
+1722: mahraganat
+1723: contemporary gospel
+1724: indian classical
+1725: concepcion indie
+1726: malaysian mandopop
+1727: neue deutsche welle
+1728: banjo
+1729: mathcore
+1730: cowboy western
+1731: atmosphere
+1732: dark rock
+1733: country gospel
+1734: karadeniz pop
+1735: german indie folk
+1736: anime cv
+1737: synthesizer
+1738: victoria bc indie
+1739: gujarati garba
+1740: classical performance
+1741: laboratorio
+1742: swedish americana
+1743: symphonic deathcore
+1744: battle rap
+1745: mande pop
+1746: nightrun
+1747: lagu timur
+1748: brit funk
+1749: carnaval cadiz
+1750: french jazz
+1751: classic house
+1752: emoplugg
+1753: perth indie
+1754: rock independant francais
+1755: pinoy pop punk
+1756: modern jazz piano
+1757: drift
+1758: classic thai pop
+1759: city pop
+1760: rap lyonnais
+1761: darksynth
+1762: musica per bambini
+1763: swancore
+1764: mambo
+1765: dutch metal
+1766: hawaiian
+1767: bakersfield sound
+1768: folclore salteno
+1769: trap pesado
+1770: entehno
+1771: vietnamese singer-songwriter
+1772: peruvian hip hop
+1773: classic belgian pop
+1774: barnemusikk
+1775: latin viral rap
+1776: trap tuga
+1777: free jazz
+1778: mizrahi
+1779: alabama indie
+1780: new italo disco
+1781: venezuelan rock
+1782: country blues
+1783: persian hip hop
+1784: dutch cabaret
+1785: psychobilly
+1786: emo mexicano
+1787: riot grrrl
+1788: guaracha
+1789: samba paulista
+1790: post-doom metal
+1791: flint hip hop
+1792: jungle
+1793: turkish soundtrack
+1794: musica tamaulipeca
+1795: zouk riddim
+1796: progressive psytrance
+1797: orgcore
+1798: asbury park indie
+1799: cello
+1800: easycore
+1801: indonesian city pop
+1802: french opera
+1803: marathi pop
+1804: bassline
+1805: pinoy alternative rap
+1806: tagalog worship
+1807: romanian rap
+1808: electro-industrial
+1809: ghanaian hip hop
+1810: irish country
+1811: neo-progressive
+1812: thai teen pop
+1813: witch house
+1814: pop nacional antigas
+1815: atlanta indie
+1816: punk rock mexicano
+1817: nuevo folklore mexicano
+1818: bouncy house
+1819: classic peruvian pop
+1820: australian singer-songwriter
+1821: swedish melodic rock
+1822: japanese new wave
+1823: acoustic chill
+1824: american shoegaze
+1825: lithuanian edm
+1826: modern ska punk
+1827: r&b italiano
+1828: new jersey punk
+1829: virginia metal
+1830: dong-yo
+1831: classic finnish rock
+1832: nottingham indie
+1833: pink noise
+1834: experimental ambient
+1835: dansktop
+1836: korean city pop
+1837: glitch
+1838: japanese old school hip hop
+1839: game mood
+1840: french metal
+1841: sacramento hip hop
+1842: bgm
+1843: danseband
+1844: psicodelia brasileira
+1845: deep pop edm
+1846: classic iskelma
+1847: modern melodic hardcore
+1848: pinoy city pop
+1849: italian tenor
+1850: classic finnish pop
+1851: japanese jazz fusion
+1852: classical tenor
+1853: old-time
+1854: ambient guitar
+1855: lds youth
+1856: vbs
+1857: latintronica
+1858: trance brasileiro
+1859: industrial hip hop
+1860: slamming deathcore
+1861: reggae cristao
+1862: minneapolis indie
+1863: xtra raw
+1864: brazilian bass
+1865: finnish heavy metal
+1866: dark plugg
+1867: lithuanian electronic
+1868: plug brasileiro
+1869: hardcore
+1870: sinhala pop
+1871: south african pop dance
+1872: rock baiano
+1873: world devotional
+1874: lesen
+1875: blackened deathcore
+1876: ukrainian indie
+1877: spanish noise pop
+1878: zouk
+1879: k-rock
+1880: kawaii metal
+1881: australian underground hip hop
+1882: world meditation
+1883: reggae cover
+1884: glam punk
+1885: islamic recitation
+1886: progressive jazz fusion
+1887: trap beats
+1888: uk tech house
+1889: new weird america
+1890: himachali pop
+1891: lithuanian pop
+1892: hard alternative
+1893: britpop revival
+1894: nederreggae
+1895: swedish reggae
+1896: soulful house
+1897: deep talent show
+1898: malay rap
+1899: flamenco fusion
+1900: latincore
+1901: russian rave
+1902: musica neoleonesa
+1903: argentine heavy metal
+1904: fado
+1905: rap siciliano
+1906: birmingham grime
+1907: chinese hip hop
+1908: uk garage
+1909: shonen
+1910: klubowe
+1911: punk 'n' roll
+1912: chill beats
+1913: progressive uplifting trance
+1914: brega romantico
+1915: groove gospel
+1916: classic j-rock
+1917: swiss pop
+1918: canadian children's music
+1919: english baroque
+1920: acoustic punk
+1921: braindance
+1922: indonesian post-hardcore
+1923: early avant garde
+1924: musica potosina
+1925: ambeat
+1926: zxc
+1927: finnish trap
+1928: belo horizonte indie
+1929: canadian classical
+1930: cologne hip hop
+1931: new orleans blues
+1932: norwegian metal
+1933: indiana hip hop
+1934: musica poblana
+1935: ukg revival
+1936: african gospel
+1937: uzbek pop
+1938: nashville indie
+1939: flute rock
+1940: singaporean singer-songwriter
+1941: quran
+1942: finnish melodeath
+1943: austin americana
+1944: hip-hop experimental
+1945: popwave
+1946: leicester indie
+1947: chill out
+1948: straight edge
+1949: arab alternative
+1950: greek underground rap
+1951: indie liguria
+1952: ambient house
+1953: vintage french electronic
+1954: rap sardegna
+1955: pinoy singer-songwriter
+1956: icelandic singer-songwriter
+1957: classic persian pop
+1958: rock alternativo espanol
+1959: classic praise
+1960: popping
+1961: instrumental soul
+1962: shred
+1963: thai folk rock
+1964: lagu melayu
+1965: assamese pop
+1966: korean indie rock
+1967: seiyu
+1968: rap anime
+1969: hurdy-gurdy
+1970: israeli singer-songwriter
+1971: san diego rap
+1972: french folk pop
+1973: ukrainian hip hop
+1974: belarusian indie
+1975: rap nacional antigo
+1976: contemporary classical
+1977: manila sound
+1978: uk post-punk revival
+1979: rap feminino nacional
+1980: hyperpop en espanol
+1981: brain waves
+1982: vietnamese trap
+1983: cumbia lagunera
+1984: norwegian country
+1985: shaabi
+1986: reggae gaucho
+1987: 5th wave emo
+1988: classic czech pop
+1989: latin funk
+1990: indie dream pop
+1991: chinese idol pop
+1992: trap peruano
+1993: surf music
+1994: harmonica blues
+1995: delta blues
+1996: albuquerque indie
+1997: finnish alternative rock
+1998: classic venezuelan pop
+1999: adoracion
+2000: emo trap en espanol
+2001: smutny rap
+2002: rap antillais
+2003: manchester indie
+2004: indie rockism
+2005: brazilian metal
+2006: vintage chinese pop
+2007: honky tonk
+2008: crossover thrash
+2009: theme
+2010: wrestling
+2011: cancion infantil mexicana
+2012: german viral rap
+2013: australian post-hardcore
+2014: jazz quartet
+2015: samba-enredo
+2016: belarusian hip hop
+2017: tolkien metal
+2018: oktoberfest
+2019: traditional country
+2020: cumbia andina mexicana
+2021: japanese post-hardcore
+2022: venezuelan indie
+2023: italian techno
+2024: brazilian emo
+2025: circuit
+2026: swedish garage rock
+2027: slovak hip hop
+2028: musica coahuilense
+2029: brazilian soul
+2030: high-tech minimal
+2031: sevdah
+2032: classic bangla pop
+2033: japanese pop rap
+2034: instrumental post-rock
+2035: polish indie
+2036: norske viser
+2037: fremantle indie
+2038: finnish edm
+2039: grime brasileiro
+2040: indian fusion
+2041: rap underground argentino
+2042: new comedy
+2043: vocal harmony group
+2044: german oi
+2045: oc indie
+2046: techno kayo
+2047: boston punk
+2048: west coast reggae
+2049: christian lo-fi
+2050: chilean hardcore
+2051: russian viral rap
+2052: freakbeat
+2053: techno
+2054: roda de samba
+2055: ghanaian alternative
+2056: moldovan pop
+2057: outsider house
+2058: musica sinaloense
+2059: scottish indie rock
+2060: comedy rock
+2061: denpa-kei
+2062: classic hungarian pop
+2063: finnish death metal
+2064: norwegian singer-songwriter
+2065: polish reggae
+2066: italian reggae
+2067: deep tech house
+2068: argentine ambient
+2069: oldschool deutschrap
+2070: san diego indie
+2071: papuri
+2072: russian metal
+2073: metal cover
+2074: acoustic guitar cover
+2075: cumbia colombiana regia
+2076: drill and bass
+2077: tololoche
+2078: rock catala
+2079: dabke
+2080: birmingham hip hop
+2081: pop minang
+2082: british power metal
+2083: christian punk
+2084: swedish dancehall
+2085: west end
+2086: japanese piano
+2087: rap cristao
+2088: eurobeat
+2089: kasi rap
+2090: wyoming roots
+2091: japanese screamo
+2092: tango
+2093: japanese dance pop
+2094: gypsy jazz
+2095: twee pop
+2096: microtonal
+2097: south african gospel
+2098: pakistani indie
+2099: czech pop rock
+2100: indian rock
+2101: french death metal
+2102: retro metal
+2103: russian modern classical
+2104: murcia indie
+2105: chinese drama ost
+2106: pirate
+2107: montreal indie
+2108: classic greek pop
+2109: vintage schlager
+2110: turk sanat muzigi
+2111: space age pop
+2112: sinhala indie
+2113: christelijk
+2114: melodic deathcore
+2115: alaska indie
+2116: workout product
+2117: praise
+2118: baltimore hip hop
+2119: lo-fi brasileiro
+2120: russian underground rap
+2121: indonesian idol pop
+2122: symphonic black metal
+2123: messianic praise
+2124: fingerstyle
+2125: jamgrass
+2126: swiss hip hop
+2127: nz hip hop
+2128: anime piano
+2129: skansk musik
+2130: indie extremena
+2131: polish alternative rock
+2132: nueva ola chilena
+2133: pinoy indie rock
+2134: j-punk
+2135: alberta country
+2136: psychedelic folk
+2137: rap montrealais
+2138: mexican edm
+2139: british jazz
+2140: brazilian boogie
+2141: musica llanera
+2142: african rock
+2143: dutch r&b
+2144: us power metal
+2145: palestinian hip hop
+2146: german worship
+2147: puirt-a-beul
+2148: alternative roots rock
+2149: sertanejo gospel
+2150: salsa choke
+2151: german punk rock
+2152: greek indie
+2153: strut
+2154: avant-garde jazz
+2155: garage pop
+2156: british children's music
+2157: california hardcore
+2158: math rock
+2159: deathgrass
+2160: shatta
+2161: viral trap
+2162: boston metal
+2163: deep norteno
+2164: modern hardcore
+2165: hard bass
+2166: deep minimal techno
+2167: canadian old school hip hop
+2168: suomirap
+2169: bangla pop
+2170: atlanta metal
+2171: rock quebecois
+2172: futurepop
+2173: russian witch house
+2174: acid house
+2175: russian indie
+2176: post-metal
+2177: swedish progressive metal
+2178: neo-traditional bluegrass
+2179: slovak rock
+2180: oi
+2181: jazz house
+2182: hyperpop francais
+2183: mundart
+2184: classic dubstep
+2185: appalachian folk
+2186: turkish modern jazz
+2187: malian blues
+2188: enka
+2189: fantasy
+2190: ballet class
+2191: balkan beats
+2192: turkce trap metal
+2193: fluxwork
+2194: south carolina indie
+2195: deep southern trap
+2196: estonian hip hop
+2197: riddim
+2198: rap romantico
+2199: norwegian black metal
+2200: emo trap italiana
+2201: french psychedelic
+2202: nantes indie
+2203: j-reggae
+2204: classical piano
+2205: memphis blues
+2206: canadian celtic
+2207: bongo flava
+2208: super eurobeat
+2209: classic french pop
+2210: baglama
+2211: japanese indie pop
+2212: danish alternative rock
+2213: ukrainian classical
+2214: german ska
+2215: southern gospel
+2216: rap francais nouvelle vague
+2217: carnatic vocal
+2218: dakke dak
+2219: french movie tunes
+2220: piratenmuziek
+2221: jacksonville indie
+2222: ballroom
+2223: deathstep
+2224: vlaamse kinderliedje
+2225: polish old school hip hop
+2226: jazz rock
+2227: psychill
+2228: uk post-hardcore
+2229: south african trap
+2230: russian punk rock
+2231: nova musica carioca
+2232: chinderlieder
+2233: tempe indie
+2234: irish hip hop
+2235: thai folk pop
+2236: semarang indie
+2237: experimental classical
+2238: oceania soundtrack
+2239: disco polo
+2240: neurofunk
+2241: cape town indie
+2242: indonesian punk
+2243: dangdut remix
+2244: pagan black metal
+2245: australian americana
+2246: sovietwave
+2247: futuristic swag
+2248: pop teen brasileiro
+2249: japanese ska
+2250: italian jazz
+2251: japanese indie rock
+2252: cante flamenco
+2253: spanish synthpop
+2254: scottish electronic
+2255: russian hyperpop
+2256: malang indie
+2257: italian tech house
+2258: musica alagoana
+2259: orchestra
+2260: oshare kei
+2261: atlanta bass
+2262: folklore surero
+2263: new england americana
+2264: huapango
+2265: relaxative
+2266: polish punk
+2267: abstract beats
+2268: josei rap
+2269: rap regio
+2270: north carolina indie
+2271: uk worship
+2272: swiss rock
+2273: chanson paillarde
+2274: arab trap
+2275: shabad
+2276: canadian post-hardcore
+2277: cantautora argentina
+2278: dark disco
+2279: indonesian ska
+2280: modern jazz trio
+2281: adventista
+2282: carnatic
+2283: military rap
+2284: forro tradicional
+2285: choro
+2286: nepali indie
+2287: trova mexicana
+2288: sudanese pop
+2289: chalga
+2290: musica gaucha
+2291: trap metal italiana
+2292: melodic groove metal
+2293: tallava
+2294: instrumental math rock
+2295: portuguese rock
+2296: dutch drill
+2297: american contemporary classical
+2298: pittsburgh indie
+2299: vgm remix
+2300: collage pop
+2301: german jazz rap
+2302: japanese folk
+2303: kodomo no ongaku
+2304: timba
+2305: khaleeji iraqi
+2306: kurdish hip hop
+2307: touhou
+2308: dark cabaret
+2309: folklore ecuatoriano
+2310: chinese melodic rap
+2311: azeri rap
+2312: virgin islands reggae
+2313: choral
+2314: progressive trance house
+2315: concurso de talentos argentino
+2316: fogo pentecostal
+2317: norwegian classical
+2318: cocuk sarkilari
+2319: experimental vocal
+2320: ontario indie
+2321: musica canaria
+2322: traditional folk
+2323: chinese electropop
+2324: gothabilly
+2325: rap italiano old school
+2326: cumbia uruguaya
+2327: british modern classical
+2328: indie siciliano
+2329: arab folk
+2330: aggrotech
+2331: channel islands indie
+2332: new isolationism
+2333: louisville indie
+2334: russian viral pop
+2335: deep comedy
+2336: avant-garde
+2337: brazilian house
+2338: kundalini
+2339: musica cristiana guatemalteca
+2340: thai idol
+2341: american modern classical
+2342: carnaval limburg
+2343: jamtronica
+2344: russian chanson
+2345: brega saudade
+2346: russian folk rock
+2347: leipzig electronic
+2348: poezja spiewana
+2349: talentschau
+2350: syrian pop
+2351: power-pop punk
+2352: sung poetry
+2353: melbourne indie
+2354: vintage tollywood
+2355: french worship
+2356: cuban alternative
+2357: folclore santiagueno
+2358: instrumental bluegrass
+2359: cumbia amazonica
+2360: mod revival
+2361: bosnian pop
+2362: arkansas hip hop
+2363: copla
+2364: gbvfi
+2365: bristol indie
+2366: yodeling
+2367: swedish metalcore
+2368: kleinkunst
+2369: classic portuguese pop
+2370: vietnamese pop
+2371: drill brasileiro
+2372: cumbia ecuatoriana
+2373: dream trance
+2374: vispop
+2375: socal indie
+2376: reading indie
+2377: schweizer rap
+2378: rumba congolaise
+2379: chanson virale
+2380: musica popular mineira
+2381: croatian rock
+2382: reggae catala
+2383: dutch tech house
+2384: turin indie
+2385: american post-rock
+2386: anime latino
+2387: folkmusik
+2388: deathrash
+2389: chopped and screwed
+2390: classic bhangra
+2391: czech punk
+2392: estonian pop
+2393: african reggae
+2394: adoracion pentecostal
+2395: brass band
+2396: new orleans funk
+2397: ndombolo
+2398: hong kong indie
+2399: gaian doom
+2400: huayno
+2401: boogaloo
+2402: jersey club
+2403: raw techno
+2404: zespol dzieciecy
+2405: thai folk
+2406: italian metal
+2407: brega
+2408: nasyid
+2409: handpan
+2410: mashup
+2411: paisley underground
+2412: musica angolana
+2413: afrobeat brasileiro
+2414: atmospheric black metal
+2415: voidgaze
+2416: tanzanian pop
+2417: rap uruguayo
+2418: japanese chill rap
+2419: kids dance party
+2420: french indie folk
+2421: thrash core
+2422: 8d
+2423: christian uplift
+2424: japanese shoegaze
+2425: hokkaido indie
+2426: chanson quebecois
+2427: deathgrind
+2428: nwocr
+2429: downtempo bass
+2430: indonesian blues
+2431: early synthpop
+2432: russian reggae
+2433: kingston on indie
+2434: oriental metal
+2435: london indie
+2436: cuban rumba
+2437: dc hardcore
+2438: bozlak
+2439: modern uplift
+2440: musica oaxaquena
+2441: lds
+2442: balearic
+2443: florida death metal
+2444: western americana
+2445: peruvian indie
+2446: kannada hip hop
+2447: michigan indie
+2448: classic k-pop
+2449: tribal house
+2450: p funk
+2451: bluegrass gospel
+2452: grand rapids indie
+2453: azeri traditional
+2454: musik anak-anak
+2455: cowpunk
+2456: blackgaze
+2457: bolobedu house
+2458: musica campechana
+2459: olympia wa indie
+2460: speed garage
+2461: scottish metal
+2462: rap maromba
+2463: electro dub
+2464: antilliaanse rap
+2465: nyhc
+2466: elephant 6
+2467: viet lo-fi
+2468: new england emo
+2469: alternative ccm
+2470: flamenco guitar
+2471: queer country
+2472: men chika
+2473: ukrainian electronic
+2474: thai viral pop
+2475: welsh indie
+2476: hong kong hip hop
+2477: pakistani folk
+2478: serbian hip hop
+2479: garhwali pop
+2480: batak
+2481: corridos cristianos
+2482: canzone genovese
+2483: indonesian indie rock
+2484: finnish indie
+2485: asheville indie
+2486: dublin indie
+2487: taiwan idol pop
+2488: dark electro
+2489: rock piauiense
+2490: latin house
+2491: korean talent show
+2492: beach house
+2493: gregorian chant
+2494: japanese math rock
+2495: neue volksmusik
+2496: emo punk
+2497: melodic hard rock
+2498: kenyan pop
+2499: dutch singer-songwriter
+2500: swedish heavy metal
+2501: popgaze
+2502: nashville americana
+2503: polish metal
+2504: chant religieux
+2505: jirai kei
+2506: czech classical
+2507: german boom bap
+2508: musica nayarita
+2509: reunion pop
+2510: lo-fi latino
+2511: cha-cha-cha
+2512: freak folk
+2513: euskal rock
+2514: korean singer-songwriter
+2515: christian afrobeat
+2516: canadian house
+2517: funk melody
+2518: nz indie
+2519: jamaican ska
+2520: instrumental acoustic guitar
+2521: auteur-compositeur-interprete quebecois
+2522: dutch americana
+2523: tulsa indie
+2524: scottish folk
+2525: jump blues
+2526: latin tech house
+2527: children's choir
+2528: irish indie rock
+2529: folclor colombiano
+2530: folklore boliviano
+2531: canto popular uruguayo
+2532: nuevo folklore argentino
+2533: chaotic hardcore
+2534: folklore paraguayo
+2535: deep adult standards
+2536: chanson humoristique
+2537: hauntology
+2538: neo-traditional country
+2539: c86
+2540: icelandic folk
+2541: canadian metalcore
+2542: bolero cubano
+2543: sudanese hip hop
+2544: salsa cubana
+2545: no wave
+2546: neo-trad metal
+2547: electronic djent
+2548: cumbia salvadorena
+2549: musica popular paraense
+2550: vlaamse rap
+2551: synth punk
+2552: miami indie
+2553: egg punk
+2554: russian ska
+2555: grindcore
+2556: musica juiz-forana
+2557: avant-garde metal
+2558: christian hardcore
+2559: dub techno
+2560: rock viet
+2561: german post-hardcore
+2562: trinibad
+2563: canadian indie folk
+2564: cedm
+2565: swiss metal
+2566: argentine metal
+2567: irish indie
+2568: irish metal
+2569: cumbia editada
+2570: korean dream pop
+2571: sevillanas
+2572: latvian pop
+2573: belgian singer-songwriter
+2574: judaica
+2575: burmese pop
+2576: indie cordoba
+2577: latin ska
+2578: experimental bass
+2579: musica maranhense
+2580: french baroque
+2581: chinese minyao
+2582: musica sarda
+2583: sasscore
+2584: danish modern jazz
+2585: swedish electronic
+2586: rai algerien
+2587: nordic folk metal
+2588: indie curitibano
+2589: dutch dnb
+2590: doujin
+2591: orebro indie
+2592: deep soundtrack
+2593: guitarra mexicana
+2594: trap cristao
+2595: thai indie
+2596: swedish doom metal
+2597: brazilian classical
+2598: doomgaze
+2599: proto-techno
+2600: space ambient
+2601: nz singer-songwriter
+2602: drone metal
+2603: progressive sludge
+2604: exotica
+2605: italian progressive rock
+2606: musique urbaine kinshasa
+2607: rogaland musikk
+2608: malaysian hip hop
+2609: classic punjabi pop
+2610: rosary
+2611: new delhi indie
+2612: glasgow indie
+2613: musica andina chilena
+2614: desert blues
+2615: vancouver punk
+2616: musica tropical guatemalteca
+2617: shojo
+2618: japanese power metal
+2619: cambridgeshire indie
+2620: belarusian pop
+2621: plugg francais
+2622: post-post-hardcore
+2623: nova canco
+2624: kc indie
+2625: russian indie rock
+2626: japanese post-rock
+2627: south african jazz
+2628: middle east hip hop
+2629: italian power metal
+2630: hard motivation
+2631: cdmx indie
+2632: manipuri pop
+2633: turkce remix
+2634: azeri pop
+2635: fidget house
+2636: cumbia surena
+2637: huayno peruano
+2638: deep dnb
+2639: ritmo kombina
+2640: danish electropop
+2641: musica nicaraguense
+2642: galante era
+2643: progressive death metal
+2644: finnish drill
+2645: brazilian punk rock
+2646: melanesian pop
+2647: gainesville indie
+2648: kompa gouyad
+2649: spacewave
+2650: slovak trap
+2651: hinos ccb
+2652: west bengali pop
+2653: orlando indie
+2654: african-american classical
+2655: kawaii edm
+2656: christchurch indie
+2657: accordion
+2658: nu skool breaks
+2659: connecticut indie
+2660: hardvapour
+2661: chicago pop punk
+2662: deep rai
+2663: canadian garage rock
+2664: drumfunk
+2665: mega funk
+2666: czsk viral pop
+2667: north carolina emo
+2668: finnish hard rock
+2669: new wave of thrash metal
+2670: arabic jazz
+2671: queercore
+2672: rabindra sangeet
+2673: kurdish folk
+2674: soukous
+2675: nordic folk
+2676: ulkucu sarkilar
+2677: cuatro venezolano
+2678: kompa
+2679: israeli indie
+2680: german heavy metal
+2681: streektaal
+2682: classic sinhala pop
+2683: malaysian tamil pop
+2684: jazz trombone
+2685: brazilian thrash metal
+2686: classical guitar
+2687: crust punk
+2688: korean electropop
+2689: jumpstyle
+2690: rap ivoire
+2691: anime drill
+2692: new tribe
+2693: bounce
+2694: apostolic worship
+2695: krautrock
+2696: new orleans soul
+2697: polish post-punk
+2698: full on
+2699: mallsoft
+2700: hyperpop brasileiro
+2701: deep christian rock
+2702: black punk
+2703: hard trance
+2704: native american contemporary
+2705: danish jazz
+2706: israeli trap
+2707: hip hop cubano
+2708: yaoi
+2709: alt-idol
+2710: deep progressive rock
+2711: bornesange
+2712: ska jazz
+2713: nu age
+2714: dutch indie rock
+2715: dayton indie
+2716: dutch trap
+2717: slovenian pop
+2718: hong kong rock
+2719: comptine
+2720: irish pub song
+2721: russian alternative rock
+2722: rajasthani pop
+2723: manso indie
+2724: russian trap metal
+2725: nz electronic
+2726: downtempo deathcore
+2727: deep dubstep
+2728: electric bass
+2729: french dub
+2730: british orchestra
+2731: renaissance
+2732: korean trap
+2733: austrian indie
+2734: neru
+2735: k-pop reality show
+2736: finnish classical
+2737: dreamgaze
+2738: rap paranaense
+2739: zikir
+2740: japanese rockabilly
+2741: black thrash
+2742: vgm instrumental
+2743: zouglou
+2744: morna
+2745: hiplife
+2746: swedish punk
+2747: vancouver metal
+2748: southern metal
+2749: luk thung
+2750: clean comedy
+2751: experimental folk
+2752: balkan brass
+2753: reggae peruano
+2754: man's orchestra
+2755: tin pan alley
+2756: vintage tango
+2757: swamp pop
+2758: euskal musica
+2759: japanese jazztronica
+2760: munich indie
+2761: mexican metal
+2762: odia pop
+2763: ethiopian pop
+2764: denver indie
+2765: operetta
+2766: vermont indie
+2767: danish indie pop
+2768: japanese celtic
+2769: russian trance
+2770: dungeon synth
+2771: musica criolla
+2772: duluth indie
+2773: philly drill
+2774: folklore peruano
+2775: metal mineiro
+2776: korean underground rap
+2777: deep techno
+2778: musique guadeloupe
+2779: eugene indie
+2780: omaha indie
+2781: mbalax
+2782: turkish punk
+2783: manitoba indie
+2784: arunachal indie
+2785: tibetan pop
+2786: calypso
+2787: kyrgyz hip hop
+2788: musicas espiritas
+2789: industrial pop
+2790: irish electronic
+2791: country quebecois
+2792: modern old-time
+2793: deep german indie
+2794: pinoy idol pop
+2795: coral gospel
+2796: trot
+2797: hungarian folk
+2798: sydney indie
+2799: 21st century classical
+2800: norwegian trap
+2801: yogyakarta indie
+2802: psychokore
+2803: jazz metal
+2804: ska espanol
+2805: tone
+2806: garage house
+2807: charlottesville indie
+2808: modular synth
+2809: dusseldorf electronic
+2810: horrorcore
+2811: telugu indie
+2812: classic greek rock
+2813: greek metal
+2814: musica santomense
+2815: ukrainian post-punk
+2816: connecticut hardcore
+2817: mgpjr
+2818: seemannslieder
+2819: brazilian groove metal
+2820: substep
+2821: rock alternatif francais
+2822: musical advocacy
+2823: bulgarian hip hop
+2824: indie psych-pop
+2825: hindustani classical
+2826: hammond organ
+2827: frankfurt electronic
+2828: folklore nuevo argentino
+2829: talentkonkurranse
+2830: kyushu indie
+2831: russian metalcore
+2832: telugu folk
+2833: indie platense
+2834: german indie pop
+2835: zamba
+2836: cincinnati rap
+2837: bulgarian trap
+2838: speed up turkce
+2839: motivation
+2840: southern soul blues
+2841: riddim dubstep
+2842: soul flow
+2843: dalarna indie
+2844: kabyle
+2845: indonesian indie pop
+2846: viola caipira
+2847: rap criolo
+2848: deep chill
+2849: huayno popular
+2850: rap motywacja
+2851: midwest americana
+2852: svensk progg
+2853: jazz clarinet
+2854: outsider
+2855: zillertal
+2856: instrumental djent
+2857: kundiman
+2858: ethio-jazz
+2859: gypsy punk
+2860: merengue tipico
+2861: musica sudcaliforniana
+2862: metal guitar
+2863: goregrind
+2864: folclore tucumano
+2865: canadian modern jazz
+2866: samurai trap
+2867: tamborazo
+2868: atlanta punk
+2869: norwegian jazz
+2870: piedmont blues
+2871: german country
+2872: australian metal
+2873: deep latin alternative
+2874: cincinnati indie
+2875: acid techno
+2876: modern cello
+2877: granada indie
+2878: swedish house
+2879: rap underground colombiano
+2880: nova musica paulista
+2881: charlotte nc indie
+2882: classic anime
+2883: tipico
+2884: phoenix indie
+2885: hardtekk
+2886: norwegian folk rock
+2887: cover acustico
+2888: plunderphonics
+2889: swedish synth
+2890: symphonic death metal
+2891: slovak punk
+2892: trondersk musikk
+2893: son cubano
+2894: tunisian pop
+2895: fake
+2896: brutal deathcore
+2897: minimal wave
+2898: nl folk
+2899: romanian rock
+2900: brazilian hardcore
+2901: finnish punk
+2902: persian rock
+2903: kizomba cabo-verdiana
+2904: ecuadorian indie
+2905: ambient idm
+2906: cambodian pop
+2907: nordnorsk musikk
+2908: blasmusik
+2909: belgian techno
+2910: highlife
+2911: rebetiko
+2912: kolkata indie
+2913: ukrainian folk rock
+2914: kizomba antigas
+2915: children's story
+2916: japanese guitar
+2917: czech singer-songwriter
+2918: instrumental stoner rock
+2919: mestissatge
+2920: neue deutsche todeskunst
+2921: mandolin
+2922: gambian hip hop
+2923: ai
+2924: technical groove metal
+2925: igbo pop
+2926: nz folk
+2927: vintage jazz
+2928: deep uplifting trance
+2929: harpsichord
+2930: victorian britain
+2931: musica tabasquena
+2932: persian alternative
+2933: experimental jazz
+2934: kannada pop
+2935: singeli
+2936: spytrack
+2937: italian folk metal
+2938: aussie emo
+2939: rap kreyol
+2940: autonomous black metal
+2941: carimbo
+2942: keroncong
+2943: boogie-woogie
+2944: eventyr
+2945: bath indie
+2946: sorani pop
+2947: beat italiano
+2948: vietnamese bolero
+2949: cumbia boliviana
+2950: buffalo ny metal
+2951: rap angolano
+2952: 432hz
+2953: maskandi
+2954: swamp blues
+2955: cornetas y tambores
+2956: bayerischer rap
+2957: funana
+2958: technical thrash
+2959: minimal melodic techno
+2960: shimmer psych
+2961: wu fam
+2962: minimal dub
+2963: musica quintanarroense
+2964: dutch prog
+2965: straight-ahead jazz
+2966: greek house
+2967: atmospheric dnb
+2968: okc indie
+2969: taiwan punk
+2970: turkish metal
+2971: arab groove
+2972: swedish black metal
+2973: deep idm
+2974: trap maroc
+2975: british contemporary classical
+2976: villancicos
+2977: alabama metal
+2978: modern goth
+2979: brazilian percussion
+2980: electrofox
+2981: horror synth
+2982: tropical tecladista
+2983: zen
+2984: hungarian edm
+2985: heavy alternative
+2986: spanish folk rock
+2987: danish post-punk
+2988: chasidic pop
+2989: glitch pop
+2990: draga
+2991: musica istmena
+2992: classic nz pop
+2993: musica jalisciense
+2994: neapolitan funk
+2995: denton tx indie
+2996: nordic post-rock
+2997: japanese underground rap
+2998: bristol electronic
+2999: ambient post-rock
+3000: smooth soul
+3001: norwegian contemporary jazz
+3002: rumba catalana
+3003: munich electronic
+3004: kwaito
+3005: vocal trance
+3006: techno rave
+3007: argentine indie rock
+3008: naat
+3009: welsh hip hop
+3010: mecha
+3011: rap liegeois
+3012: seinen
+3013: german thrash metal
+3014: rock chapin
+3015: german ccm
+3016: plena uruguaya
+3017: classic icelandic pop
+3018: native american flute
+3019: commons
+3020: family gospel
+3021: croatian hip hop
+3022: tamil worship
+3023: fort worth indie
+3024: gengetone
+3025: bogor indie
+3026: semba
+3027: ukrainian edm
+3028: dissonant death metal
+3029: brazilian progressive metal
+3030: t-pop girl group
+3031: dub brasileiro
+3032: rock keyboard
+3033: freeform hardcore
+3034: taiwanese indie
+3035: jazz mexicano
+3036: musica ayacuchana
+3037: tampa indie
+3038: audiophile vocal
+3039: vintage swedish pop
+3040: gothic black metal
+3041: indie rock peruano
+3042: makossa
+3043: hokkien pop
+3044: cypriot pop
+3045: grimewave
+3046: christian hard rock
+3047: virginia punk
+3048: experimental indie
+3049: rennes indie
+3050: ambient psychill
+3051: russian folk
+3052: hard techno
+3053: canadian hardcore
+3054: moog
+3055: orchestral performance
+3056: nephop
+3057: j-core
+3058: trival
+3059: musiikkia lapsille
+3060: jazz cubano
+3061: dunedin indie
+3062: cantautor catala
+3063: kaneka
+3064: bleep techno
+3065: chinese indie rock
+3066: japanese garage rock
+3067: miami bass
+3068: mongolian alternative
+3069: san antonio rap
+3070: marathi devotional
+3071: thai pop rap
+3072: neo-rockabilly
+3073: powerviolence
+3074: british black metal
+3075: congolese gospel
+3076: windsor on indie
+3077: guatemalan pop
+3078: spanish post-punk
+3079: leeds indie
+3080: coco
+3081: porro
+3082: deep soul house
+3083: deep melodic metalcore
+3084: pop ambient
+3085: icelandic electronic
+3086: rhode island indie
+3087: greek downtempo
+3088: tatar pop
+3089: galician rock
+3090: german indie rock
+3091: vintage hollywood
+3092: progressive power metal
+3093: jazz organ
+3094: string folk
+3095: early reggae
+3096: japanese contemporary classical
+3097: indy indie
+3098: garage punk
+3099: experimental house
+3100: jazz drums
+3101: deep disco
+3102: belgian dnb
+3103: funk evangelico
+3104: brega paraense
+3105: vincy soca
+3106: bali indie
+3107: charanga
+3108: library music
+3109: lapland metal
+3110: instrumental surf
+3111: oulu metal
+3112: twoubadou
+3113: rare groove
+3114: southern americana
+3115: jazz double bass
+3116: novelty
+3117: nwothm
+3118: chinese manyao
+3119: alberta hip hop
+3120: 48g
+3121: german show tunes
+3122: multidisciplinary
+3123: power blues-rock
+3124: belgian indie rock
+3125: gothic americana
+3126: french punk
+3127: israeli folk
+3128: pittsburgh rock
+3129: slovenian electronic
+3130: armenian pop
+3131: action rock
+3132: malayalam indie
+3133: electro trash
+3134: rumeli turkuleri
+3135: korean indie folk
+3136: stockholm indie
+3137: ugandan pop
+3138: bajki
+3139: salsa urbana
+3140: west australian hip hop
+3141: halftime dnb
+3142: norsk lovsang
+3143: scottish hip hop
+3144: kent indie
+3145: romanian electronic
+3146: persian electronic
+3147: reggae maghreb
+3148: pakistani electronic
+3149: andean flute
+3150: tamil indie
+3151: funk mexicano
+3152: anarcho-punk
+3153: miami metal
+3154: corrosion
+3155: indie shoegaze
+3156: swing italiano
+3157: deathrock
+3158: australian ambient
+3159: new orleans indie
+3160: spiritual hip hop
+3161: lexington ky indie
+3162: german jazz
+3163: folclor afrocolombiano
+3164: italian trance
+3165: schranz
+3166: punk chileno
+3167: geek rock
+3168: modern enka
+3169: harp
+3170: vintage dutch pop
+3171: brazilian post-hardcore
+3172: post-black metal
+3173: deep big room
+3174: jackin' house
+3175: bardcore
+3176: okinawan folk
+3177: new mexico music
+3178: vaqueiro
+3179: danish indie
+3180: vienna indie
+3181: nz children's music
+3182: indie valenciana
+3183: japanese dream pop
+3184: sound art
+3185: portland punk
+3186: bass music
+3187: slack-key guitar
+3188: austrian hip hop
+3189: lagu bali
+3190: tekno
+3191: phleng phuea chiwit
+3192: paraguayan rock
+3193: ghent indie
+3194: polish electronica
+3195: beatboxing
+3196: singing bowl
+3197: musica popular uruguaya
+3198: detroit house
+3199: drill beats
+3200: symfonicky orchestr
+3201: christian a cappella
+3202: tamaulipas indie
+3203: bard
+3204: griot
+3205: cyber metal
+3206: one-person band
+3207: melodipop
+3208: british death metal
+3209: catalan folk
+3210: nz christian
+3211: depressive black metal
+3212: pinoy alternative rock
+3213: classic australian country
+3214: nice indie
+3215: coupe-decale
+3216: ambient techno
+3217: lagu sunda
+3218: comedie musicale
+3219: classic azeri pop
+3220: kora
+3221: russian synthpop
+3222: spanish invasion
+3223: ok indie
+3224: trance mexicano
+3225: traditional ska
+3226: koligeet
+3227: german tech house
+3228: musica indigena latinoamericana
+3229: ilahiler
+3230: forro gospel
+3231: ostrock
+3232: spa
+3233: progressive doom
+3234: tape club
+3235: austin hip hop
+3236: opera
+3237: swedish stoner rock
+3238: gaita zuliana
+3239: york indie
+3240: warm drone
+3241: classic dutch pop
+3242: slow game
+3243: palestinian pop
+3244: polish death metal
+3245: melodic power metal
+3246: latvian hip hop
+3247: ramonescore
+3248: german opera
+3249: maine indie
+3250: pinoy praise
+3251: texas hardcore
+3252: louisiana metal
+3253: slam poetry
+3254: zilizopendwa
+3255: taiwan rock
+3256: abstract
+3257: deep smooth jazz
+3258: afro-cuban percussion
+3259: classic hungarian rock
+3260: taiwan campus folk
+3261: classic luk thung
+3262: technical deathcore
+3263: japanese blues
+3264: indian underground rap
+3265: puerto rican folk
+3266: vintage broadway
+3267: dub reggae
+3268: dutch moombahton
+3269: gothenburg hip hop
+3270: breakcore
+3271: kentucky punk
+3272: western mass indie
+3273: indian electronic
+3274: kazakh indie
+3275: lancaster pa indie
+3276: musica eletronica gospel
+3277: hamilton on indie
+3278: neotango
+3279: pop costarricense
+3280: australian ska
+3281: classic italian folk pop
+3282: focus trance
+3283: north carolina metal
+3284: canterbury scene
+3285: drone folk
+3286: gyerekdalok
+3287: polynesian hip hop
+3288: baiao
+3289: speedcore
+3290: oud
+3291: truck-driving country
+3292: waiata maori
+3293: nueva trova chilena
+3294: campursari
+3295: dark black metal
+3296: acidcore
+3297: musica catarinense
+3298: bangladeshi rock
+3299: brisbane punk
+3300: deep soft rock
+3301: belarusian electronic
+3302: croatian indie
+3303: nerdcore
+3304: korean worship
+3305: musica baiana
+3306: south african deep house
+3307: polish black metal
+3308: novo rock gaucho
+3309: indie napoletano
+3310: afghan rap
+3311: chamber folk
+3312: pennsylvania hardcore
+3313: sinaloa indie
+3314: musica andina colombiana
+3315: lebanese indie
+3316: classic japanese jazz
+3317: kentucky metal
+3318: vocaloid metal
+3319: piano mpb
+3320: rochester ny indie
+3321: devon indie
+3322: cape verdean folk
+3323: traditional british folk
+3324: belarusian rock
+3325: dark folk
+3326: dreampunk
+3327: polish prog
+3328: portuguese indie
+3329: utah indie
+3330: italian electronica
+3331: deep ragga
+3332: blaskapelle
+3333: pop paraguayo
+3334: rap femenino mexicano
+3335: jazz vibraphone
+3336: soviet synthpop
+3337: chinese talent show
+3338: long island punk
+3339: world chill
+3340: hindustani vocal
+3341: ohio indie
+3342: spanish folk
+3343: cinematic post-rock
+3344: gothic alternative
+3345: hamburg indie
+3346: guinean pop
+3347: underground power pop
+3348: new orleans americana
+3349: punk euskera
+3350: dc indie
+3351: swedish folk pop
+3352: turkish electronic
+3353: pinoy drill
+3354: korean superband
+3355: canadian blues
+3356: experimental electronic
+3357: british comedy
+3358: voetbal
+3359: musica costarricense
+3360: memphis americana
+3361: haitian gospel
+3362: spiritual jazz
+3363: psalmen
+3364: malayalam hip hop
+3365: dancehall chileno
+3366: balkan drill
+3367: psychedelic folk rock
+3368: japanese heavy metal
+3369: trio huasteco
+3370: indonesian edm
+3371: polca paraguaya
+3372: japanese boom bap
+3373: ragga jungle
+3374: warrington indie
+3375: chinese audiophile
+3376: irish neo-traditional
+3377: musica cabo-verdiana
+3378: sci-fi metal
+3379: detroit techno
+3380: football
+3381: dutch experimental electronic
+3382: orthodox chant
+3383: austrian dnb
+3384: musica afroperuana
+3385: bisaya rap
+3386: amharic pop
+3387: german literature
+3388: psychedelic punk
+3389: turkish classical
+3390: german hyperpop
+3391: slam death metal
+3392: polish indie rock
+3393: broken beat
+3394: accordeon
+3395: american grindcore
+3396: grebo
+3397: bemani
+3398: melodic black metal
+3399: musica michoacana
+3400: sinhala rap
+3401: zimdancehall
+3402: png pop
+3403: dark hardcore
+3404: jazz worship
+3405: norrlandsk hip hop
+3406: varmland rock
+3407: classic progressive house
+3408: austrian metal
+3409: persian traditional
+3410: college a cappella
+3411: folklore chileno
+3412: chinese traditional
+3413: telugu devotional
+3414: swiss trap
+3415: bruneian pop
+3416: spanish reggae
+3417: japanese vocal jazz
+3418: british post-rock
+3419: alpine yodeling
+3420: acid jazz
+3421: blues latinoamericano
+3422: old west
+3423: boston hardcore
+3424: musica portuguesa contemporanea
+3425: norwegian house
+3426: tennessee metal
+3427: marimba orquesta
+3428: indonesian psychedelia
+3429: scouse rap
+3430: afro-funk
+3431: musica yucateca
+3432: italian gothic metal
+3433: folclore jujeno
+3434: american primitive
+3435: czech country
+3436: jazzy dnb
+3437: birmingham indie
+3438: ukulele
+3439: german prog
+3440: dallas indie
+3441: south african choral
+3442: italo house
+3443: italian gothic
+3444: psicodelia chilena
+3445: japanese indie folk
+3446: american 21st century classical
+3447: dansei seiyu
+3448: polish synthpop
+3449: epunk
+3450: new wave of glam metal
+3451: british country
+3452: quebec punk
+3453: armenian folk
+3454: guyanese pop
+3455: lithuanian hip hop
+3456: spanish indie folk
+3457: chinese worship
+3458: musica crista reformada
+3459: musique militaire
+3460: visor
+3461: musica paraibana
+3462: raggatek
+3463: slavic folk metal
+3464: black 'n' roll
+3465: bush ballad
+3466: canadian indigenous
+3467: indie folk argentino
+3468: nijisanji
+3469: bouzouki
+3470: classic romanian pop
+3471: beats
+3472: marathi remix
+3473: brazilian ska
+3474: ska catala
+3475: buffalo ny indie
+3476: christian power metal
+3477: berlin school
+3478: tunantada
+3479: tamil devotional
+3480: swiss house
+3481: israeli jazz
+3482: korean electronic
+3483: idaho indie
+3484: montenegrin pop
+3485: corridos adictivos
+3486: musica mixteca
+3487: instrumental progressive metal
+3488: newcastle indie
+3489: samoan pop
+3490: japanese electronic
+3491: rockabilly en espanol
+3492: brazilian power metal
+3493: cleveland metal
+3494: gulf hip hop
+3495: swedish rockabilly
+3496: underground amapiano
+3497: nordic contemporary classical
+3498: neofolk
+3499: guided meditation
+3500: musica popular amazonense
+3501: punk cover
+3502: viking black metal
+3503: vogue
+3504: chakra
+3505: charango
+3506: modern progressive rock
+3507: greek swing
+3508: hard house
+3509: hungarian metal
+3510: indie electronica
+3511: indie emo
+3512: black comedy
+3513: deep liquid
+3514: louvor icm
+3515: er ge
+3516: sunnlensk tonlist
+3517: northeast indian indie
+3518: chill baile
+3519: marathi traditional
+3520: lampung indie
+3521: japanese beats
+3522: funk capixaba
+3523: australian indigenous hip hop
+3524: musica guerrerense
+3525: italian renaissance
+3526: uk dub
+3527: uk82
+3528: brazilian modern jazz
+3529: western swing
+3530: traditional bluegrass
+3531: viet remix
+3532: cruise
+3533: swiss folk
+3534: spanish techno
+3535: zambian hip hop
+3536: beatdown
+3537: gospel reggae
+3538: cosmic post-rock
+3539: rap feminino chileno
+3540: bandoneon
+3541: tuareg guitar
+3542: kenyan hip hop
+3543: ghanaian gospel
+3544: british grindcore
+3545: czech metal
+3546: greek contemporary classical
+3547: venda pop
+3548: jordanian pop
+3549: rosario indie
+3550: polish blues
+3551: hungarian punk
+3552: czech folk rock
+3553: st louis drill
+3554: comedia
+3555: armenian hip hop
+3556: nz dnb
+3557: chamber orchestra
+3558: belgian metal
+3559: festigal
+3560: indonesian hardcore
+3561: deep gothic post-punk
+3562: italian library music
+3563: neurostep
+3564: folklore venezolano
+3565: background jazz product
+3566: little rock indie
+3567: slushwave
+3568: math pop
+3569: guitarra andina
+3570: spanish electronic
+3571: cook islands pop
+3572: batida
+3573: portland metal
+3574: rock of gibraltar
+3575: russian ccm
+3576: muzika l'yeladim
+3577: israelite hip hop
+3578: columbus ohio indie
+3579: lldm
+3580: georgian hip hop
+3581: sambass
+3582: danish techno
+3583: rap capixaba
+3584: baltic classical
+3585: viral pop brasileiro
+3586: death 'n' roll
+3587: jig and reel
+3588: paidika tragoudia
+3589: tech trance
+3590: usbm
+3591: japanese psychedelic
+3592: sitar
+3593: dennery segment
+3594: jain bhajan
+3595: deep east coast hip hop
+3596: wassoulou
+3597: rap metal espanol
+3598: chinese soundtrack
+3599: hungarian underground rap
+3600: stomp and whittle
+3601: singaporean hip hop
+3602: ukulele cover
+3603: dirty texas rap
+3604: muzica etno
+3605: kids hip hop
+3606: dominican indie
+3607: uk christian rap
+3608: jazz catala
+3609: sound effects
+3610: hungarian techno
+3611: classic nepali pop
+3612: asakaa
+3613: waiata mo tamariki
+3614: fictitious orchestra
+3615: psybass
+3616: muzica crestina
+3617: chinese new year
+3618: cueca chilena
+3619: psychedelic blues-rock
+3620: hungarian classical performance
+3621: sami
+3622: anglican liturgy
+3623: british dance band
+3624: folklore uruguayo
+3625: detskie pesni
+3626: magyar retro dance
+3627: chinese classical performance
+3628: british choir
+3629: peruvian punk
+3630: musica infantil catala
+3631: dancehall guyanaise
+3632: musica capixaba
+3633: graz indie
+3634: finnish new wave
+3635: svensk lovsang
+3636: sheilat
+3637: uwielbienie
+3638: slavic metal
+3639: violin
+3640: karaoke
+3641: cameroonian pop
+3642: icelandic hip hop
+3643: bulgarian rock
+3644: rap chretien
+3645: canadian underground hip hop
+3646: neo-kraut
+3647: uppsala indie
+3648: czsk reggae
+3649: nuevo tango
+3650: musique comorienne
+3651: darkstep
+3652: halifax indie
+3653: jazz harp
+3654: southampton indie
+3655: springfield mo indie
+3656: ukrainian classical piano
+3657: electro bailando
+3658: khayal
+3659: classic korean pop
+3660: caucasian classical
+3661: kansai indie
+3662: spanish prog
+3663: vinahouse
+3664: shoegaze brasileiro
+3665: newfoundland indie
+3666: neo kyma
+3667: guggenmusik
+3668: north moroccan rap
+3669: mexican son
+3670: bangladeshi indie
+3671: capoeira
+3672: skramz
+3673: igbo rap
+3674: puerto rican indie
+3675: gospel drill
+3676: malaysian punk
+3677: vintage italian pop
+3678: rock curitibano
+3679: jewish hip hop
+3680: rva indie
+3681: german dnb
+3682: punk rock italiano
+3683: northern irish punk
+3684: marching band
+3685: hamburger schule
+3686: chinese classical piano
+3687: thai worship
+3688: kurdish rock
+3689: thall
+3690: aarhus indie
+3691: rock en asturiano
+3692: zambian pop
+3693: cartoni animati
+3694: technical melodic death metal
+3695: gqom
+3696: zim urban groove
+3697: afro drill
+3698: scottish techno
+3699: jazz brass
+3700: mississippi indie
+3701: balkan punk
+3702: dancehall colombiano
+3703: lithuanian trap
+3704: lezginka
+3705: psydub
+3706: stateside dnb
+3707: afrikaans hip hop
+3708: vegan straight edge
+3709: kuduro
+3710: indonesian metal
+3711: rap pernambucano
+3712: tanzanian hip hop
+3713: oaxaca indie
+3714: dub punk
+3715: hindustani instrumental
+3716: cavernous death metal
+3717: bomba y plena
+3718: industrial techno
+3719: swiss indie folk
+3720: mongolian hip hop
+3721: zydeco
+3722: cumbia cristiana
+3723: israeli techno
+3724: spirituals
+3725: free improvisation
+3726: drill dominicano
+3727: histoire pour enfants
+3728: marimba de guatemala
+3729: irish rebel song
+3730: fan chant
+3731: norwegian americana
+3732: musica pernambucana
+3733: punk catala
+3734: dubsteppe
+3735: austin singer-songwriter
+3736: sonora indie
+3737: swedish techno
+3738: sega mauricien
+3739: texas punk
+3740: grunge pop
+3741: mpb gospel
+3742: swedish hardcore
+3743: swiss singer-songwriter
+3744: didgeridoo
+3745: footwork
+3746: panpipe
+3747: yugoslav new wave
+3748: ecuadorian alternative rock
+3749: chain punk
+3750: sega
+3751: musica duranguense
+3752: norwegian punk rock
+3753: chattanooga indie
+3754: fijian pop
+3755: flemish folk
+3756: british industrial
+3757: musica feirense
+3758: taiwan instrumental
+3759: japanese experimental
+3760: tamazight
+3761: musica evangelica instrumental
+3762: cosmic death metal
+3763: lithuanian indie
+3764: raboday
+3765: yoga
+3766: calgary indie
+3767: classical cello
+3768: swiss reggae
+3769: bloco
+3770: eritrean pop
+3771: arkansas indie
+3772: bahamian pop
+3773: telugu remix
+3774: north dakota indie
+3775: solipsynthm
+3776: epa dunk
+3777: musica lombarda
+3778: leipzig indie
+3779: reggae mexicano
+3780: chinese jazz
+3781: electronica chilena
+3782: polyphony
+3783: new york death metal
+3784: chaabi marocain
+3785: tucson indie
+3786: serbian electronic
+3787: ryukyu ongaku
+3788: norwegian alternative rock
+3789: ottawa indie
+3790: quebec death metal
+3791: punk melodico chileno
+3792: berlin minimal techno
+3793: italian new wave
+3794: rap galego
+3795: canadian post-punk
+3796: street punk espanol
+3797: wyoming indie
+3798: rap portuense
+3799: danzon
+3800: bay area hip hop
+3801: french dnb
+3802: jazz puertorriqueno
+3803: experimental club
+3804: musique pour enfant quebecois
+3805: spanish rockabilly
+3806: american melodeath
+3807: light music
+3808: chinese indie pop
+3809: detske pisnicky
+3810: french black metal
+3811: russian techno
+3812: puglia indie
+3813: dutch blues
+3814: minimal dnb
+3815: ny roots
+3816: chicano punk
+3817: lafayette indie
+3818: pakistani rock
+3819: indie cristao
+3820: purple sound
+3821: rap tico
+3822: deep liquid bass
+3823: indie rock colombiano
+3824: canadian psychedelic rock
+3825: worcester ma indie
+3826: atmospheric sludge
+3827: modern swing
+3828: magyar mulatos
+3829: polish folk metal
+3830: afro psych
+3831: nordic ambient
+3832: nitzhonot
+3833: hindi worship
+3834: dronescape
+3835: zcc
+3836: memphis indie
+3837: norwegian space disco
+3838: traditional soul
+3839: black death
+3840: uk noise rock
+3841: orquesta tipica
+3842: belgian electronic
+3843: deep contemporary country
+3844: musica hondurena
+3845: baptist gospel
+3846: australian techno
+3847: nordic classical piano
+3848: west virginia indie
+3849: acid trance
+3850: mandible
+3851: deep happy hardcore
+3852: folk black metal
+3853: elektropunk
+3854: indie folk italiano
+3855: greek psychedelic rock
+3856: northeast indian hip hop
+3857: dark ambient
+3858: punta
+3859: ambient trance
+3860: trad quebecois
+3861: canadian psychedelic
+3862: nz gangsta rap
+3863: power thrash
+3864: uk beatdown
+3865: swahili gospel
+3866: breton folk
+3867: british experimental
+3868: greek guitar
+3869: gospel italiano
+3870: edinburgh indie
+3871: polish contemporary classical
+3872: italian ska
+3873: italian contemporary jazz
+3874: belgian modern jazz
+3875: salsa cristiana
+3876: beach music
+3877: indie veneto
+3878: bouyon
+3879: deep metalcore
+3880: solomon islands pop
+3881: iowa hip hop
+3882: irish drill
+3883: english renaissance
+3884: afrobeat fusion
+3885: post-disco soul
+3886: guitarra clasica
+3887: mumbai indie
+3888: musica pitiusa
+3889: baltic post-punk
+3890: musica nortena chilena
+3891: french garage rock
+3892: american romanticism
+3893: french post-punk
+3894: dutch jazz
+3895: fast melodic punk
+3896: milwaukee hip hop
+3897: synthwave brasileiro
+3898: russian pop punk
+3899: russian dnb
+3900: british math rock
+3901: muzica copii
+3902: australian experimental
+3903: african electronic
+3904: ambient black metal
+3905: trinidadian reggae
+3906: louange
+3907: gypsy fusion
+3908: pashto pop
+3909: classical harp
+3910: punta rock
+3911: japanese idm
+3912: musica potiguar
+3913: abstract idm
+3914: hmong pop
+3915: zurich indie
+3916: czech indie
+3917: east anglia indie
+3918: forest psy
+3919: string band
+3920: boogie
+3921: musica nublensina
+3922: japanese edm
+3923: russian shoegaze
+3924: german black metal
+3925: traditional scottish folk
+3926: danish singer-songwriter
+3927: orquestas de galicia
+3928: euroska
+3929: japanese worship
+3930: surinamese pop
+3931: maine hip hop
+3932: drill tuga
+3933: jazz violin
+3934: german dark minimal techno
+3935: metal gotico
+3936: minneapolis punk
+3937: korean soundtrack
+3938: bagpipe marching band
+3939: halloween
+3940: detroit indie
+3941: swedish psychedelic rock
+3942: libyan pop
+3943: finnish soul
+3944: deep brazilian pop
+3945: swiss techno
+3946: tassie indie
+3947: swiss alternative rock
+3948: finnish pop punk
+3949: punk tuga
+3950: german pagan metal
+3951: new weird finland
+3952: sanfona
+3953: brazilian techno
+3954: ukrainian folk pop
+3955: deep funk ostentacao
+3956: lagu aceh
+3957: rwandan pop
+3958: essex indie
+3959: erotic product
+3960: panamanian rock
+3961: vintage chanson
+3962: garage punk blues
+3963: singaporean electronic
+3964: italian jazz fusion
+3965: modern psychedelic folk
+3966: italian folk
+3967: derby indie
+3968: mongolian pop
+3969: malaysian tamil rap
+3970: macedonian pop
+3971: cologne electronic
+3972: german melodeath
+3973: romanian folk
+3974: blackened screamo
+3975: technical black metal
+3976: norrbotten indie
+3977: martial industrial
+3978: vintage cantonese pop
+3979: australian blues
+3980: belgian new wave
+3981: greek rock
+3982: swing revival
+3983: stl indie
+3984: mezmur
+3985: tijuana indie
+3986: bahai
+3987: musikkorps
+3988: kansas indie
+3989: kyrgyz pop
+3990: sefardi
+3991: cancoes infantis
+3992: austro-german modernism
+3993: new wave of speed metal
+3994: comedienne
+3995: pei indie
+3996: bomba
+3997: naija old school
+3998: experimental guitar
+3999: banda guanajuatense
+4000: arabic instrumental
+4001: deep neofolk
+4002: atmospheric post-metal
+4003: canadian indigenous hip hop
+4004: irish dance
+4005: laulaja-lauluntekija
+4006: hard minimal techno
+4007: hungarian indie
+4008: modern jangle pop
+4009: french classical piano
+4010: serialism
+4011: uruguayan indie
+4012: experimental indie rock
+4013: trio batak
+4014: detske pesnicky
+4015: telugu worship
+4016: pop catracho
+4017: goralski
+4018: bossa nova jazz
+4019: hengelliset laulut
+4020: spanish classical
+4021: pinoy metal
+4022: austin rock
+4023: erotica
+4024: brazilian dnb
+4025: progressive breaks
+4026: mgp
+4027: celtic harp
+4028: minneapolis metal
+4029: pacific islands gospel
+4030: funky breaks
+4031: reiki
+4032: drone ambient
+4033: mizo pop
+4034: swedish prog
+4035: faroese pop
+4036: euskal indie
+4037: shamisen
+4038: indian percussion
+4039: guitarra argentina
+4040: deep dance pop
+4041: madrigal
+4042: canadian experimental
+4043: japanese house
+4044: macedonian hip hop
+4045: 8-bit
+4046: kenyan alternative
+4047: musica aguascalentense
+4048: ghettotech
+4049: deep flow
+4050: old school hard trance
+4051: south african country
+4052: brazilian indie rock
+4053: south african underground rap
+4054: lancashire indie
+4055: malayalam worship
+4056: jalsat
+4057: powwow
+4058: malayalam cover
+4059: moderne ludovky
+4060: south african r&b
+4061: nagpuri pop
+4062: ragtime
+4063: luxembourgian indie
+4064: sungura
+4065: country boogie
+4066: cleveland indie
+4067: bangladeshi hip hop
+4068: albany ny indie
+4069: musica occitana
+4070: bansuri
+4071: deep acoustic pop
+4072: knoxville indie
+4073: rock tico
+4074: post-punk mexicano
+4075: neo-psicodelia brasileira
+4076: cybergrind
+4077: hyperpop italiano
+4078: malagasy pop
+4079: therapy
+4080: crack rock steady
+4081: joropo
+4082: argentine hardcore
+4083: southeast asian post-rock
+4084: japanese psychedelic rock
+4085: japanese girl punk
+4086: denver metal
+4087: house argentino
+4088: ukhc
+4089: turkish post-punk
+4090: glitch beats
+4091: cabaret
+4092: korean shoegaze
+4093: somali pop
+4094: vlaamse cabaret
+4095: popullore jugu
+4096: german electronica
+4097: candomble
+4098: lagu sasak
+4099: early music ensemble
+4100: punjabi folk
+4101: kumauni pop
+4102: corsican folk
+4103: gambian pop
+4104: german street punk
+4105: pornogrind
+4106: experimental techno
+4107: humppa
+4108: nz metal
+4109: hardcore punk espanol
+4110: isle of wight indie
+4111: japanese hyperpop
+4112: kansas hip hop
+4113: barnalog
+4114: gamecore
+4115: khmer hip hop
+4116: spacesynth
+4117: washboard
+4118: sambalpuri pop
+4119: klapa
+4120: kelowna bc indie
+4121: indorock
+4122: estonian rock
+4123: portuguese metal
+4124: son cubano clasico
+4125: romanian indie
+4126: indonesian underground hip hop
+4127: punk colombiano
+4128: uk diy punk
+4129: musica mallorquina
+4130: malawian pop
+4131: german blues
+4132: finnish progressive rock
+4133: street band
+4134: erhu
+4135: belarusian punk
+4136: marwadi pop
+4137: maluku pop
+4138: ney
+4139: slovenian rock
+4140: palestinian alternative
+4141: xitsonga pop
+4142: lund indie
+4143: chinese folk
+4144: russian nu metal
+4145: cosmic black metal
+4146: portuguese techno
+4147: neo-pagan
+4148: underground boom bap
+4149: lagu sabahan
+4150: german classical piano
+4151: lo star
+4152: deep progressive trance
+4153: second line
+4154: electronica peruana
+4155: uk stoner rock
+4156: oberkrainer
+4157: macedonian folk
+4158: jewish a capella
+4159: rogaland indie
+4160: portuguese folk
+4161: malmo indie
+4162: xhosa
+4163: austrian black metal
+4164: rusyn folk
+4165: musique tahitienne
+4166: ukrainian alternative rock
+4167: irish classical
+4168: cork indie
+4169: experimental synth
+4170: noise punk
+4171: norwegian gospel
+4172: manitoba country
+4173: contemporary folk
+4174: cantaditas
+4175: uilleann pipes
+4176: rock progressif francais
+4177: bagpipe
+4178: polish hardcore
+4179: western saharan folk
+4180: finnish reggae
+4181: navajo
+4182: bisrock
+4183: piano house
+4184: zim hip hop
+4185: chhattisgarhi pop
+4186: brazilian tech house
+4187: musica calabrese
+4188: cornwall indie
+4189: concert band
+4190: bisaya indie
+4191: technical brutal death metal
+4192: swiss worship
+4193: kenyan drill
+4194: indie tico
+4195: classic moroccan pop
+4196: australian comedy
+4197: early american folk
+4198: bible
+4199: post-punk latinoamericano
+4200: tango cancion
+4201: italian post punk
+4202: musica goiana
+4203: slovenian indie
+4204: musica paranaense
+4205: trap angolano
+4206: gothic post-punk
+4207: italian metalcore
+4208: euskal metal
+4209: turkish classical performance
+4210: mbira
+4211: trap cristiano
+4212: banda peruana
+4213: kalmar indie
+4214: russian emo
+4215: marimba mexicana
+4216: polish jazz
+4217: canadian post-rock
+4218: turkish reggae
+4219: electronica cristiana
+4220: ruta destroy
+4221: circus
+4222: galician folk
+4223: syrian hip hop
+4224: russian classical piano
+4225: atmospheric doom
+4226: musique acadienne
+4227: talentos brasileiros
+4228: classic danish rock
+4229: historic piano performance
+4230: atlantic canada hip hop
+4231: finnish black metal
+4232: tijuana electronic
+4233: ukrainian experimental
+4234: ukrainian folk
+4235: czsk hyperpop
+4236: rap congolais
+4237: bangalore indie
+4238: latvian indie
+4239: fo jing
+4240: classical soprano
+4241: swedish post-hardcore
+4242: japanese traditional
+4243: australian classical
+4244: finnish doom metal
+4245: dutch black metal
+4246: american choir
+4247: folklore cuyano
+4248: adelaide indie
+4249: icelandic post-punk
+4250: emocore
+4251: epic doom
+4252: funeral doom
+4253: chicago mexican
+4254: blackened crust
+4255: german stoner rock
+4256: modern darkwave
+4257: latino comedy
+4258: canadian comedy
+4259: new england metal
+4260: musica mapuche
+4261: nordic shoegaze
+4262: ua trap
+4263: lithuanian rock
+4264: massage
+4265: caracas indie
+4266: friese muziek
+4267: musica indigena mexicana
+4268: gospel soul
+4269: stuttgart indie
+4270: uae indie
+4271: hip hop galsen
+4272: belgian jazz
+4273: london on indie
+4274: early music choir
+4275: language
+4276: gospel singers
+4277: scratch
+4278: dub metal
+4279: cuento infantile
+4280: clap and tap
+4281: technical grindcore
+4282: metal colombiano
+4283: russian heavy metal
+4284: deep folk metal
+4285: german death metal
+4286: michigan folk
+4287: japanese drill
+4288: norwegian death metal
+4289: southern china indie
+4290: traditional english folk
+4291: chinese instrumental
+4292: remix product
+4293: togolese pop
+4294: jazz venezolano
+4295: mallet
+4296: brasilia indie
+4297: kinderchor
+4298: electronica venezuela
+4299: estonian electronic
+4300: deep psychobilly
+4301: danish black metal
+4302: greek black metal
+4303: galego
+4304: swiss black metal
+4305: contrabass
+4306: medieval
+4307: salay
+4308: israeli classical piano
+4309: american oi
+4310: swedish underground rap
+4311: norwegian prog
+4312: birdsong
+4313: finnish metalcore
+4314: italian mandolin
+4315: virginia indie
+4316: deep funk
+4317: violao classico
+4318: japanese melodic punk
+4319: sunset lounge
+4320: forro manauara
+4321: canadian drill
+4322: florida hardcore
+4323: modern big band
+4324: neo-crust
+4325: finnish progressive metal
+4326: new wave of osdm
+4327: vietnamese electronic
+4328: old school highlife
+4329: montana indie
+4330: south african electronic
+4331: blues mexicano
+4332: indonesian emo rap
+4333: irish banjo
+4334: indonesian death metal
+4335: azeri alternative
+4336: christian dance
+4337: winnipeg hip hop
+4338: musica valenciana
+4339: wisconsin indie
+4340: dresden indie
+4341: darbuka
+4342: west yorkshire indie
+4343: musica mocambicana
+4344: psychedelic space rock
+4345: xenharmonic
+4346: punk galego
+4347: dainuojamoji poezija
+4348: indie michoacano
+4349: sevilla indie
+4350: slovak folk
+4351: myanmar indie
+4352: japanese bedroom pop
+4353: tribute
+4354: lawrence ks indie
+4355: french hardcore
+4356: rock gotico
+4357: rautalanka
+4358: bmore
+4359: neo metal
+4360: balkan post punk
+4361: african percussion
+4362: pittsburgh metal
+4363: christmas product
+4364: progressive black metal
+4365: gnawa
+4366: ukrainian metal
+4367: italian death metal
+4368: outer hip hop
+4369: georgian alternative
+4370: hip hop boliviano
+4371: franco-flemish school
+4372: maltese hip hop
+4373: taiwan post-rock
+4374: faroese indie
+4375: cascadia psych
+4376: pahadi pop
+4377: gospel rap
+4378: experimental psych
+4379: hjemmesnekk
+4380: finlandssvenska musik
+4381: bass trip
+4382: swedish blues
+4383: milwaukee indie
+4384: indie campechano
+4385: pasodobles
+4386: voidgrind
+4387: musica mexiquense
+4388: japanoise
+4389: noisecore
+4390: black speed metal
+4391: tibetan mantra
+4392: joseon pop
+4393: musique nigerienne
+4394: bosnian indie
+4395: spanish experimental
+4396: pre-war blues
+4397: deep melodic death metal
+4398: khandeshi pop
+4399: canti alpini
+4400: psych gaze
+4401: bolivian rock
+4402: hampton roads indie
+4403: balfolk
+4404: rap tuga underground
+4405: old school nederhop
+4406: sinogaze
+4407: dark psytrance
+4408: palestinian traditional
+4409: canadian rockabilly
+4410: louisville underground
+4411: bal-musette
+4412: oslo indie
+4413: yemeni pop
+4414: polish thrash metal
+4415: avant-garde black metal
+4416: arizona punk
+4417: komedi
+4418: beninese pop
+4419: deep melodic hard rock
+4420: musica antigua
+4421: nohay
+4422: makina
+4423: russian post-rock
+4424: guidance
+4425: danish death metal
+4426: musique touareg
+4427: dundee indie
+4428: hi-tech
+4429: breaks
+4430: indian metal
+4431: musica de intervencao
+4432: thai instrumental
+4433: bajan soca
+4434: deep german punk
+4435: cornish folk
+4436: norman ok indie
+4437: xinyao
+4438: military cadence
+4439: south dakota indie
+4440: boston electronic
+4441: d-beat
+4442: mexican experimental
+4443: dunedin sound
+4444: indie salvadoreno
+4445: rap toscana
+4446: italian punk
+4447: rap guarulhense
+4448: ilocano pop
+4449: junior songfestival
+4450: narodnozabavna
+4451: swedish experimental
+4452: folklore veracruzano
+4453: rap salvadoreno
+4454: umea hardcore
+4455: jazz guitar trio
+4456: yoruba worship
+4457: baja indie
+4458: australian post-rock
+4459: dutch death metal
+4460: slovak electronic
+4461: atmospheric post-rock
+4462: spanish indie rock
+4463: nyc metal
+4464: swedish post-punk
+4465: estonian indie
+4466: gamelan
+4467: jazzcore
+4468: canadian death metal
+4469: prepared piano
+4470: south asian metal
+4471: classic afrobeat
+4472: military band
+4473: tzadik
+4474: barbershop
+4475: singaporean indie
+4476: szanty
+4477: classical trumpet
+4478: greenlandic pop
+4479: cymraeg
+4480: zenonesque
+4481: finnish worship
+4482: chimurenga
+4483: hard rock mexicano
+4484: kannada bhava geethe
+4485: geek folk
+4486: czsk electropop
+4487: japanese death metal
+4488: german post-punk
+4489: canadian black metal
+4490: indie singer-songwriter
+4491: danish experimental
+4492: russian experimental electronic
+4493: jazz flute
+4494: finnish electro
+4495: polka nortena
+4496: austrian techno
+4497: spanish jazz
+4498: guam indie
+4499: norwegian doom metal
+4500: spanish electropop
+4501: hull indie
+4502: russian old school hip hop
+4503: chinese electronic
+4504: psychedelic jazz fusion
+4505: deep discofox
+4506: mexican hardcore
+4507: indie pop rock
+4508: mindfulness
+4509: albanian rock
+4510: portuguese indie rock
+4511: musique mariage algerien
+4512: neo grime
+4513: ukrainian black metal
+4514: reggae tico
+4515: indie cantabria
+4516: telugu hip hop
+4517: rock goiano
+4518: kashmiri pop
+4519: american orchestra
+4520: pinoy edm
+4521: argentine jazz
+4522: dutch musical
+4523: bachchon ke geet
+4524: muzica usoara
+4525: surinamese hip hop
+4526: khmer
+4527: japanese post-punk
+4528: throat singing
+4529: murga
+4530: grenada soca
+4531: bornehistorier
+4532: forro instrumental
+4533: dessin anime
+4534: musique mahoraise
+4535: seattle metal
+4536: liechtenstein
+4537: vapor house
+4538: chennai indie
+4539: musica jibara
+4540: polish folk
+4541: trondheim indie
+4542: mexican death metal
+4543: cardiff indie
+4544: nz hardcore
+4545: bohemian baroque
+4546: chaotic black metal
+4547: uk rockabilly
+4548: rap gaucho
+4549: japanese techno
+4550: musiikkia lapista
+4551: rap metalcore
+4552: acousmatic
+4553: honky-tonk piano
+4554: russian romance
+4555: algerian folk
+4556: polyphonies corses
+4557: jazz accordion
+4558: cascadian black metal
+4559: pune indie
+4560: old school uk hip hop
+4561: deep deep house
+4562: czech electronic
+4563: coventry indie
+4564: emoviolence
+4565: go-go
+4566: gotlandsk musik
+4567: zim gospel
+4568: west african jazz
+4569: czech alternative rap
+4570: brass ensemble
+4571: rock campineiro
+4572: ostschlager
+4573: oeteldonk
+4574: punk mexicano
+4575: swedish rock-and-roll
+4576: samba gospel
+4577: musica sul-mato-grossense
+4578: fort wayne indie
+4579: prog quebec
+4580: heavy gothic rock
+4581: italian post-hardcore
+4582: slovenian metal
+4583: french oi
+4584: symphonic melodic death metal
+4585: japanese classical performance
+4586: muzica populara
+4587: trash rock
+4588: steel guitar
+4589: bhojpuri folk
+4590: brazilian blues
+4591: norwegian psychedelic
+4592: german renaissance
+4593: musica eletronica brasileira
+4594: boy pop
+4595: indonesian deathcore
+4596: progressive alternative
+4597: portuguese black metal
+4598: scottish fiddle
+4599: persian neo-traditional
+4600: serbian indie
+4601: icelandic jazz
+4602: italian stoner rock
+4603: japanese progressive house
+4604: swansea indie
+4605: psytech
+4606: backing track
+4607: bulgarian r&b
+4608: rap norteno chileno
+4609: assyrian pop
+4610: lagu tarling
+4611: lao pop
+4612: rap ecuatoriano
+4613: fado antigo
+4614: native american spiritual
+4615: brazilian death metal
+4616: kabyle moderne
+4617: iowa indie
+4618: taiwanese indigenous
+4619: rap abc paulista
+4620: industrial hardcore
+4621: venda rap
+4622: norwegian experimental
+4623: chaabi algerien
+4624: latvian rock
+4625: australian death metal
+4626: rap sureno chileno
+4627: drikkelek
+4628: georgian electronic
+4629: tennessee experimental
+4630: sean-nos singing
+4631: contemporary choir
+4632: hypnosis
+4633: classical jazz fusion
+4634: icelandic metal
+4635: brazilian lo-fi rock
+4636: comptine africaine
+4637: musica colombiana instrumental
+4638: austrian jazz
+4639: bisaya worship
+4640: old school ebm
+4641: pittsburgh indie rock
+4642: scottish indie folk
+4643: gabonese pop
+4644: russian plugg
+4645: bodo pop
+4646: string quartet
+4647: harmonica jazz
+4648: mongolian folk
+4649: native american hip hop
+4650: nz jazz
+4651: australian jazz
+4652: japanese prog
+4653: oth indie
+4654: bulgarian electronic
+4655: musica etnica
+4656: wellington indie
+4657: mexican classical
+4658: modular techno
+4659: panamanian indie
+4660: israeli metal
+4661: krajiska muzika
+4662: indiana indie
+4663: poznan indie
+4664: italian emo
+4665: lagu iban
+4666: irish techno
+4667: balkan folk metal
+4668: epic black metal
+4669: death doom
+4670: orquesta tropical
+4671: gospel blues
+4672: rock paraibano
+4673: weightless
+4674: georgian pop
+4675: rock cearense
+4676: kaseko
+4677: italian pop punk
+4678: maracatu
+4679: basque folk
+4680: grunneger muziek
+4681: bosnian electronic
+4682: doomcore
+4683: raspe
+4684: klezmer
+4685: sesotho pop
+4686: rasiya
+4687: dansk lovsang
+4688: blues-rock guitar
+4689: polish psychedelia
+4690: finnish blues
+4691: russian folk metal
+4692: swiss jazz
+4693: hawaiian indie
+4694: nueva ola peruana
+4695: carnatic instrumental
+4696: classic sudanese pop
+4697: spanish progressive rock
+4698: folk siciliana
+4699: chilean metal
+4700: myanmar hip hop
+4701: mexican tech house
+4702: austrian stoner rock
+4703: maithili
+4704: brockton hip hop
+4705: barnasogur
+4706: viet instrumental
+4707: dub poetry
+4708: chabad niggunim
+4709: detski pesnichki
+4710: afro-cuban traditional
+4711: lao hip hop
+4712: german hardcore
+4713: musica andorra
+4714: classical saxophone
+4715: ambient industrial
+4716: musica wixarika
+4717: denver rap
+4718: danish punk
+4719: cocuk masallari
+4720: slovak indie
+4721: industrial black metal
+4722: nisiotika
+4723: kritika
+4724: metal catala
+4725: fussball
+4726: whale song
+4727: faroese rock
+4728: haur kantak
+4729: muzica moldoveneasca
+4730: byzantine
+4731: barockinterpreten
+4732: taiwan metal
+4733: tibetan hip hop
+4734: musique mandingue
+4735: dusseldorf indie
+4736: norwegian folk
+4737: scottish gaelic folk
+4738: thai metal
+4739: progressive thrash
+4740: burundian pop
+4741: saraiki pop
+4742: albanian alternative
+4743: german post-rock
+4744: lasten satuja
+4745: polish techno
+4746: mexican traditional
+4747: frankfurt indie
+4748: rap catarinense
+4749: duduk
+4750: cambodian rock
+4751: greek indie rock
+4752: deep freestyle
+4753: baltic folk
+4754: nova musica maranhense
+4755: lustrum
+4756: musica queretana
+4757: lapland hip hop
+4758: rap moldovenesc
+4759: dutch classical piano
+4760: geinin song
+4761: yorkshire folk
+4762: heligonka
+4763: hard glam
+4764: basel indie
+4765: siberian folk
+4766: heavy psych
+4767: south carolina metal
+4768: australian post-punk
+4769: classical clarinet
+4770: kuduro antigo
+4771: guzheng
+4772: belgian blues
+4773: korean metal
+4774: icelandic black metal
+4775: fado de coimbra
+4776: maltese pop
+4777: noel quebecois
+4778: juju
+4779: cumbia funk
+4780: balinese traditional
+4781: west-vlaamse hip hop
+4782: polish modern jazz
+4783: finnish folk
+4784: belgian contemporary classical
+4785: serbian alternative rock
+4786: deep psytrance
+4787: nordnorsk rap
+4788: montana roots
+4789: mevlevi sufi
+4790: chinese metalcore
+4791: marcha funebre
+4792: power noise
+4793: old-time fiddle
+4794: jazz orchestra
+4795: ukrainian ccm
+4796: sebene
+4797: kerkkoor
+4798: malawian hip hop
+4799: indie fuzzpop
+4800: spanish renaissance
+4801: taiwanese pop
+4802: limerick indie
+4803: birthday
+4804: garage rock mexicano
+4805: baroque ensemble
+4806: meyxana
+4807: shakuhachi
+4808: scottish drill
+4809: slovenian hip hop
+4810: indie canario
+4811: anthem
+4812: greek folk
+4813: malaysian metal
+4814: classic tunisian pop
+4815: mluvene slovo
+4816: indian jazz
+4817: jumptek
+4818: musica purepecha
+4819: swedish classical
+4820: dark progressive house
+4821: protest folk
+4822: psicodelia mexicana
+4823: blackened hardcore
+4824: bluegrass fiddle
+4825: tanzlmusi
+4826: aggro chileno
+4827: viola
+4828: electronicore
+4829: minimal dubstep
+4830: ngoni
+4831: australian hardcore
+4832: convent
+4833: australian classical piano
+4834: rock caipira
+4835: merida indie
+4836: slovenian folk
+4837: russian pixel
+4838: deep new wave
+4839: maloya
+4840: experimental dub
+4841: shib
+4842: banda de viento
+4843: christian deathcore
+4844: math rock latinoamericano
+4845: santali pop
+4846: viola da gamba
+4847: salzburg indie
+4848: raw black metal
+4849: rwandan gospel
+4850: progressive technical death metal
+4851: musica brasiliense
+4852: macedonian electronic
+4853: rongmei pop
+4854: latvian electronic
+4855: german rockabilly
+4856: cantonese worship
+4857: college marching band
+4858: classic bulgarian pop
+4859: screamocore
+4860: mexican post-rock
+4861: deep progressive house
+4862: italogaze
+4863: welsh folk
+4864: finnish idol pop
+4865: polka
+4866: fuji
+4867: french stoner rock
+4868: israeli punk
+4869: wind symphony
+4870: melodic doom
+4871: cameroonian hip hop
+4872: rio grande do sul indie
+4873: classical mandolin
+4874: haitian dance
+4875: unblack metal
+4876: classical organ
+4877: yu-mex
+4878: chant basque
+4879: fallen angel
+4880: death industrial
+4881: sesotho hip hop
+4882: koledy
+4883: mexican thrash metal
+4884: swiss country
+4885: taiwan electronic
+4886: cape breton folk
+4887: musica chiapaneca
+4888: modern string quartet
+4889: musica guineense
+4890: techno argentina
+4891: tigrigna pop
+4892: traditional funk
+4893: portsmouth indie
+4894: british brass band
+4895: gypsy
+4896: zambian gospel
+4897: vocal ensemble
+4898: concertina
+4899: hausa pop
+4900: son jarocho
+4901: scottish americana
+4902: houston indie
+4903: choro contemporaneo
+4904: polish ambient
+4905: finnish post-punk
+4906: neo-manele
+4907: barrelhouse piano
+4908: arpa paraguaya
+4909: nz punk
+4910: ambient dub techno
+4911: lounge house
+4912: frevo
+4913: steelpan
+4914: latin shoegaze
+4915: free folk
+4916: ambient fusion
+4917: shoegaze chileno
+4918: deep downtempo fusion
+4919: icelandic punk
+4920: british classical piano
+4921: brass band brasileiro
+4922: arpa grande
+4923: cambridge choir
+4924: marathi hip hop
+4925: estonian folk
+4926: triangle indie
+4927: ugandan gospel
+4928: medway sound
+4929: korean jazz
+4930: rap guineen
+4931: forest black metal
+4932: odia bhajan
+4933: deep ambient
+4934: australian black metal
+4935: igbo worship
+4936: mexican techno
+4937: schwyzerorgeli
+4938: hammered dulcimer
+4939: university choir
+4940: chapman stick
+4941: polish experimental electronic
+4942: ukrainian metalcore
+4943: igbo traditional
+4944: cuban funk
+4945: music hall
+4946: georgian folk
+4947: belgian black metal
+4948: pohadky
+4949: irish accordion
+4950: sludgecore
+4951: finnish modern jazz
+4952: japanese orchestra
+4953: xhosa hip hop
+4954: burkinabe pop
+4955: spanish psychedelic rock
+4956: sierra leonean pop
+4957: french post-rock
+4958: lagu manado
+4959: indie poblano
+4960: norwegian techno
+4961: derry indie
+4962: russian hardcore
+4963: korean hyperpop
+4964: rap euskera
+4965: via
+4966: greek techno
+4967: french rock-and-roll
+4968: musica tradicional dominicana
+4969: metal ecuatoriano
+4970: idol game
+4971: nova musica amazonense
+4972: italian black metal
+4973: lagu bugis
+4974: lute
+4975: black sludge
+4976: nz alternative rock
+4977: arab metal
+4978: chechen pop
+4979: musica otavalena
+4980: khasi pop
+4981: uk post-metal
+4982: stubenmusik
+4983: scottish jazz
+4984: swedish fiddle
+4985: russian contemporary classical
+4986: lastelaulud
+4987: hazaragi pop
+4988: deep vocal house
+4989: japanese dub
+4990: banda militar
+4991: chamorro pop
+4992: musica indigena brasileira
+4993: fisarmonica
+4994: nyckelharpa
+4995: singaporean metal
+4996: bandolim
+4997: war metal
+4998: latin surf rock
+4999: italian experimental
+5000: tavern
+5001: rez country
+5002: hong kong tv drama
+5003: lowlands hardcore
+5004: qanun
+5005: clawhammer banjo
+5006: south african modern jazz
+5007: northwest china indie
+5008: kannada indie
+5009: new hampshire indie
+5010: reading
+5011: finnish tango
+5012: bern indie
+5013: rap gabonais
+5014: dicsoites
+5015: jug band
+5016: brazilian black metal
+5017: galician indie
+5018: belgian death metal
+5019: namibian pop
+5020: canadian classical piano
+5021: norwegian hardcore
+5022: sacred steel
+5023: danish classical
+5024: experimental black metal
+5025: missouri indie
+5026: brazilian metalcore
+5027: isle of man indie
+5028: italian doom metal
+5029: afghan traditional
+5030: sulawesi indie
+5031: rwandan hip hop
+5032: tongan pop
+5033: dutch punk
+5034: gumbe
+5035: afrikaans gospel
+5036: trikiti
+5037: irish fiddle
+5038: bhutanese pop
+5039: south african metal
+5040: taiwan classical performance
+5041: vaikiskos dainos
+5042: street punk
+5043: lovecraftian metal
+5044: canberra indie
+5045: boeremusiek
+5046: yoik
+5047: modern mod
+5048: canadian shoegaze
+5049: surabaya indie
+5050: oulu indie
+5051: contemporary classical piano
+5052: sundanese traditional
+5053: sufi chant
+5054: finnish experimental
+5055: tajik pop
+5056: starogradska
+5057: japanese concert band
+5058: swedish pop punk
+5059: adelaide punk
+5060: luxembourgian pop
+5061: finnish jazz
+5062: magyar musicalek
+5063: hungarian contemporary classical
+5064: deep filthstep
+5065: kokborok pop
+5066: vintage taiwan pop
+5067: cajun
+5068: japanese classical piano
+5069: musica madeirense
+5070: german orchestra
+5071: fado instrumental
+5072: balalaika
+5073: traditional rockabilly
+5074: baton rouge indie
+5075: women's choir
+5076: grim death metal
+5077: radio symphony
+5078: chamber choir
+5079: japanese choir
+5080: indie trujillano
+5081: chinese post-rock
+5082: rap malien
+5083: peruvian metal
+5084: musica cearense
+5085: italian classical piano
+5086: greek punk
+5087: gaita
+5088: benga
+5089: san antonio indie
+5090: romanian metal
+5091: belgian post-rock
+5092: veena
+5093: turkish death metal
+5094: slovenske chvaly
+5095: bosstown sound
+5096: djecje pjesme
+5097: spanish post-rock
+5098: turkmen pop
+5099: ritual ambient
+5100: latvian folk
+5101: finnish psychedelic rock
+5102: finnish hardcore
+5103: deep italo disco
+5104: modern chamber music
+5105: musica morelense
+5106: folk metal latinoamericano
+5107: portuguese jazz
+5108: malang punk
+5109: neo-industrial rock
+5110: shanghai indie
+5111: brno indie
+5112: downtempo fusion
+5113: wrock
+5114: swedish ebm
+5115: irish trap
+5116: oriental classical
+5117: brazilian experimental
+5118: french renaissance
+5119: swedish emo
+5120: konkani pop
+5121: deep darkpsy
+5122: seychelles pop
+5123: dutch idol pop
+5124: metal gaucho
+5125: musica campista
+5126: taiwan graduation song
+5127: taraneem
+5128: faroese folk
+5129: nubian traditional
+5130: streichquartett
+5131: dortmund indie
+5132: pops orchestra
+5133: inuit pop
+5134: musique urbaine brazzaville
+5135: italian contemporary classical
+5136: west virginia metal
+5137: bernu dziesmas
+5138: vintage norwegian pop
+5139: vaudeville
+5140: coldwave
+5141: indie sudcaliforniano
+5142: viet edm
+5143: ohio hardcore
+5144: indian violin
+5145: libyan hip hop
+5146: rock alagoano
+5147: kompa chretien
+5148: austrian punk
+5149: sda choir
+5150: volkstumliche musik
+5151: russian orchestra
+5152: historically informed performance
+5153: sotalaulut
+5154: colombian electronic
+5155: tuvan folk
+5156: aberdeen indie
+5157: glitter trance
+5158: chamame brasilero
+5159: dutch underground hip hop
+5160: rap mocambicana
+5161: grisly death metal
+5162: jazz chileno
+5163: paraguayan indie
+5164: traditional southern folk
+5165: occult black metal
+5166: serbian folk
+5167: rotterdam indie
+5168: crossover prog
+5169: jazz tico
+5170: goa trance
+5171: drone rock
+5172: cypriot hip hop
+5173: croatian metal
+5174: belgian stoner rock
+5175: japanese black metal
+5176: wuhan indie
+5177: cifteli
+5178: flick hop
+5179: tamburica
+5180: classic latvian pop
+5181: grunge revival
+5182: ancient mediterranean
+5183: covertrance
+5184: turkish experimental
+5185: chinese post-punk
+5186: italian hardcore
+5187: vintage spanish pop
+5188: indonesian neo-psychedelia
+5189: german shoegaze
+5190: eastern bloc groove
+5191: deep hardcore
+5192: musica sergipana
+5193: decije pesme
+5194: irish flute
+5195: skinhead oi
+5196: irish contemporary classical
+5197: st petersburg fl indie
+5198: indian ambient
+5199: nagaland indie
+5200: firenze indie
+5201: baithak gana
+5202: indonesian shoegaze
+5203: wisconsin metal
+5204: trekkspill
+5205: irish black metal
+5206: yakut pop
+5207: tarantella
+5208: russian black metal
+5209: electroacoustic improvisation
+5210: arkansas metal
+5211: russian power metal
+5212: karbi pop
+5213: new brunswick indie
+5214: indie boliviano
+5215: danish hardcore
+5216: svensk indie
+5217: australian thrash metal
+5218: ryukoka
+5219: cuban electronic
+5220: bahamian folk
+5221: syro-aramaic chant
+5222: chamber ensemble
+5223: folclore portugues
+5224: sarod
+5225: dark minimal techno
+5226: austrian orchestra
+5227: rock catracho
+5228: hardcore breaks
+5229: canzone siciliane
+5230: post-punk brasileiro
+5231: deep r&b
+5232: chinese metal
+5233: indie paraense
+5234: rominimal
+5235: spanish blues
+5236: dansk comedy
+5237: myanmar gospel
+5238: musique concrete
+5239: russian choir
+5240: colombian hardcore
+5241: vintage french psychedelic
+5242: abstractro
+5243: australian shoegaze
+5244: romanian contemporary classical
+5245: marrabenta
+5246: neo honky tonk
+5247: bulgarian indie
+5248: chinese classical
+5249: chinese experimental
+5250: western ny metal
+5251: instrumental death metal
+5252: maghreb
+5253: jazz dominicano
+5254: italian post-rock
+5255: avant-rock
+5256: coptic hymn
+5257: musica prehispanica
+5258: japanese melodic hardcore
+5259: icelandic traditional
+5260: combos nacionales
+5261: deep free jazz
+5262: staff band
+5263: south african punk
+5264: karen pop
+5265: finnish electronic
+5266: garifuna folk
+5267: alpenpanorama
+5268: lagu karo
+5269: minimal synth
+5270: utah metal
+5271: mountain dulcimer
+5272: american classical piano
+5273: diy pop punk
+5274: classic ukrainian pop
+5275: new england hardcore
+5276: swazi pop
+5277: hungarian classical piano
+5278: irish underground rap
+5279: musica folk asturiana
+5280: jazz colombiano
+5281: dragspel
+5282: ugandan hip hop
+5283: spanish classical piano
+5284: finnish choir
+5285: american early music
+5286: mathgrind
+5287: pilates
+5288: japanese hardcore
+5289: rap ecuatoguineano
+5290: candombe
+5291: tuna estudiantil
+5292: indie hidrocalido
+5293: rap alagoano
+5294: neo-trad prog
+5295: bulgarian folk
+5296: tibetan traditional
+5297: metal paranaense
+5298: finnish rockabilly
+5299: medimeisterschaften
+5300: baps
+5301: polish post-rock
+5302: oromo pop
+5303: folclore castilla y leon
+5304: brazilian stoner rock
+5305: south sudanese pop
+5306: dweilorkest
+5307: galway indie
+5308: future ambient
+5309: classic psychedelic rock
+5310: pinoy shoegaze
+5311: hardingfele
+5312: danish folk
+5313: hangoskonyvek
+5314: deep jazz fusion
+5315: leon gto indie
+5316: mizo gospel
+5317: koto
+5318: colorado hardcore
+5319: power electronics
+5320: hypertrance
+5321: raga rock
+5322: korean classical performance
+5323: bengali folk
+5324: israeli traditional
+5325: musica menorquina
+5326: lowercase
+5327: greek jazz
+5328: rajasthani folk
+5329: umea indie
+5330: christian thrash metal
+5331: skweee
+5332: classical percussion
+5333: hot jazz
+5334: deep southern soul
+5335: modern electroacoustic
+5336: swiss punk
+5337: indian instrumental rock
+5338: ohangla
+5339: arab experimental
+5340: classical flute
+5341: senegalese traditional
+5342: swedish grindcore
+5343: deep hardtechno
+5344: medieval ensemble
+5345: cathedral choir
+5346: brazilian contemporary classical
+5347: indie psychedelic rock
+5348: macedonian indie
+5349: russian death metal
+5350: northamptonshire indie
+5351: tabla
+5352: adivasi pop
+5353: botswana pop
+5354: dutch stoner rock
+5355: metal noir quebecois
+5356: rap paraguayo
+5357: zeuhl
+5358: guatemalan indie
+5359: anime game
+5360: prague indie
+5361: meenawati
+5362: folk cantabria
+5363: lithuanian folk
+5364: belgian punk
+5365: norwegian blues
+5366: italian soprano
+5367: rock nica
+5368: eletronica underground brasileira
+5369: indie hidalguense
+5370: irish gaelic folk
+5371: pontian folk
+5372: oxford choir
+5373: rock sergipano
+5374: guitarra portuguesa
+5375: lesotho traditional
+5376: german choir
+5377: indonesian experimental
+5378: mento
+5379: metal tico
+5380: latin american heavy psych
+5381: yuri
+5382: classical accordion
+5383: neo-proto
+5384: acid idm
+5385: balafon
+5386: muzica bisericeasca
+5387: illbient
+5388: indie arequipeno
+5389: marimba
+5390: dutch folk
+5391: dutch experimental
+5392: brazilian rockabilly
+5393: rock progresivo mexicano
+5394: kinderliedjies
+5395: rap nortista
+5396: classic female blues
+5397: mainland se asia metal
+5398: romanian black metal
+5399: luxembourgian hip hop
+5400: molam
+5401: salon music
+5402: caucasian classical piano
+5403: portuguese death metal
+5404: andalusian classical
+5405: horror punk brasileiro
+5406: lombok indie
+5407: rock potiguar
+5408: croatian folk
+5409: men's choir
+5410: malagasy folk
+5411: musica campineira
+5412: scottish smallpipe
+5413: drama
+5414: experimental percussion
+5415: musica ecuatoguineana
+5416: russian jazz
+5417: muzica ardeleneasca
+5418: musique peule
+5419: danish electro
+5420: taiko
+5421: paracana
+5422: classical countertenor
+5423: traditional reggae
+5424: armenian indie
+5425: vintage hawaiian
+5426: spanish baroque
+5427: trap kreyol
+5428: french experimental rock
+5429: classical mezzo-soprano
+5430: dutch punk rock
+5431: musique ancienne
+5432: polynesian traditional
+5433: guatemalan metal
+5434: musica piauiense
+5435: gaddiyali pop
+5436: jazz tuba
+5437: christian symphonic metal
+5438: irish ballad
+5439: swiss experimental
+5440: dutch contemporary classical
+5441: classic konkani pop
+5442: deep classic garage rock
+5443: noise
+5444: italian baroque ensemble
+5445: tuna
+5446: japanese buddhist chant
+5447: singaporean punk
+5448: musique mauritanienne
+5449: canadian choir
+5450: classic assamese pop
+5451: experimental big band
+5452: terrorcore
+5453: russian thrash metal
+5454: italian progressive metal
+5455: rap sergipano
+5456: african metal
+5457: sinhala edm
+5458: colombian death metal
+5459: javanese gamelan
+5460: euro hi-nrg
+5461: rap potiguar
+5462: demoscene
+5463: nyahbinghi
+5464: hula
+5465: circassian folk
+5466: deep sunset lounge
+5467: lagu maluku
+5468: deep funk house
+5469: gotico brasileiro
+5470: c64
+5471: deep eurodance
+5472: croatian electronic
+5473: charred death
+5474: hakkapop
+5475: bolivian metal
+5476: pipa
+5477: tar
+5478: belarusian metal
+5479: welsh choir
+5480: french folk
+5481: iranian experimental
+5482: tulum
+5483: himalayan folk
+5484: swedish contemporary classical
+5485: zither
+5486: delaware indie
+5487: trio cubano
+5488: musica colimense
+5489: iraqi hip hop
+5490: min'yo
+5491: swedish choir
+5492: deep indie singer-songwriter
+5493: tanzorchester
+5494: classical trombone
+5495: estonian metal
+5496: cape breton indie
+5497: saxophone trio
+5498: korean experimental
+5499: lai hla
+5500: hard dance
+5501: assamese hip hop
+5502: deep northern soul
+5503: nhac thieu nhi
+5504: italian blues
+5505: chinese punk
+5506: colombian black metal
+5507: deep g funk
+5508: vintage swing
+5509: post-punk colombiano
+5510: theremin
+5511: vintage finnish jazz
+5512: new jack smooth
+5513: alaska hip hop
+5514: kapa haka
+5515: lagu betawi
+5516: musica blumenauense
+5517: rap gasy
+5518: macedonian rock
+5519: vintage country folk
+5520: italian modern prog
+5521: kentucky mountain folk
+5522: lincoln ne indie
+5523: kolo
+5524: hungarian black metal
+5525: spanish stoner rock
+5526: muzica maramureseana
+5527: marinera
+5528: edinburgh metal
+5529: synthetic classical
+5530: organic ambient
+5531: kikuyu pop
+5532: dhrupad
+5533: spanish death metal
+5534: musica mato-grossense
+5535: otroske pesmice
+5536: duhovne pjesme
+5537: normal indie
+5538: cantonese opera
+5539: irish experimental electronic
+5540: poetry
+5541: canadian stoner rock
+5542: autoharp
+5543: beat poetry
+5544: alandsk musik
+5545: melodic progressive metal
+5546: thrash-groove metal
+5547: korean punk
+5548: guitar case
+5549: vintage classical singing
+5550: sardinia indie
+5551: norwegian choir
+5552: rakugo
+5553: rock in opposition
+5554: izvorna muzika
+5555: pontianak indie
+5556: kosovan indie
+5557: cuatro puertorriqueno
+5558: brass quintet
+5559: israeli classical
+5560: ringtone
+5561: soda pop
+5562: blues band
+5563: orquesta cubana
+5564: middle eastern traditional
+5565: polish metalcore
+5566: new england experimental
+5567: slc hardcore
+5568: sindhi
+5569: cosmic uplifting trance
+5570: alternative metalcore
+5571: austrian classical piano
+5572: vintage radio show
+5573: german contemporary classical
+5574: somatik techno
+5575: ceilidh
+5576: modern performance
+5577: indonesian bamboo
+5578: belgian experimental
+5579: russian modern jazz
+5580: rock pernambucano
+5581: saxony metal
+5582: bikutsi
+5583: early french punk
+5584: string orchestra
+5585: metal salvadoreno
+5586: haitian traditional
+5587: novos talentos brasileiros
+5588: metalcore espanol
+5589: electroacoustic composition
+5590: turkish black metal
+5591: humour francais
+5592: deep indie rock
+5593: instrumental black metal
+5594: ukrainian choir
+5595: orkney and shetland folk
+5596: kinnauri pop
+5597: indie queretano
+5598: deep vocal jazz
+5599: classical baritone
+5600: punk ecuatoriano
+5601: brazilian heavy metal
+5602: rock catarinense
+5603: czsk black metal
+5604: rozpravky
+5605: sound collage
+5606: lithuanian jazz
+5607: classic nz country
+5608: musica rondoniense
+5609: deep full on
+5610: rock dominicano
+5611: jazz composition
+5612: deep swedish rock
+5613: cerkes muzikleri
+5614: piada
+5615: finnish techno
+5616: detskie rasskazy
+5617: borneo traditional
+5618: indonesian thrash metal
+5619: mapouka
+5620: dytyachi pisni
+5621: gwoka
+5622: rock sul-mato-grossense
+5623: folklore quebecois
+5624: djembe
+5625: finnish contemporary classical
+5626: musica caririense
+5627: baroque singing
+5628: bury st edmunds indie
+5629: re:techno
+5630: slovak metal
+5631: mising pop
+5632: neo-trad doom metal
+5633: classical bass
+5634: musica acoriana
+5635: indie nica
+5636: prank
+5637: guqin
+5638: field recording
+5639: neo soul-jazz
+5640: lithuanian metal
+5641: italian bass
+5642: psybreaks
+5643: gothic doom
+5644: kosovan folk
+5645: mexican power metal
+5646: australian rockabilly
+5647: muzica banateana
+5648: portuguese contemporary classical
+5649: italo beats
+5650: brazilian grindcore
+5651: historic classical performance
+5652: musica rapa nui
+5653: albanian folk
+5654: metal galego
+5655: bandura
+5656: ceske chvaly
+5657: organetto
+5658: trombone brasileiro
+5659: industrial noise
+5660: belgian hardcore
+5661: botswana traditional
+5662: kantele
+5663: antilliaanse folklore
+5664: belfast indie
+5665: deep delta blues
+5666: brazilian surf rock
+5667: lok dohori
+5668: chill groove
+5669: musique soninke
+5670: moravian folk
+5671: vintage reggae
+5672: polish classical piano
+5673: vintage old-time
+5674: deep motown
+5675: bulgarian metal
+5676: folklore panameno
+5677: oratory
+5678: kikuyu gospel
+5679: punk tico
+5680: portuguese post-rock
+5681: folclore extremeno
+5682: mexican electronic
+5683: musique traditionnelle congolaise
+5684: italian rockabilly
+5685: korean traditional
+5686: bohol indie
+5687: czech hardcore
+5688: ladakhi pop
+5689: black noise
+5690: spoken word
+5691: indie catracho
+5692: serbian metal
+5693: deep active rock
+5694: rock abc paulista
+5695: liberian pop
+5696: deep space rock
+5697: metal paraguayo
+5698: jazz caraibes
+5699: indie tucumano
+5700: maltese metal
+5701: hipco
+5702: jugendchor
+5703: latin american classical piano
+5704: brazilian post-rock
+5705: rap paraense
+5706: danish choir
+5707: deep power-pop punk
+5708: irish experimental
+5709: russian screamo
+5710: gospel papiamento
+5711: czech jazz
+5712: experimental dubstep
+5713: classical oboe
+5714: h8000
+5715: egyptian traditional
+5716: nordic orchestra
+5717: santur
+5718: idaho hip hop
+5719: proto-rap
+5720: polish noise rock
+5721: orkiestra symfoniczna
+5722: british electroacoustic
+5723: ethiopian traditional
+5724: french contemporary classical
+5725: malawian folk
+5726: glass
+5727: aghani lil-atfal
+5728: pinoy traditional
+5729: italian classical guitar
+5730: italian occult psychedelia
+5731: musica londrinense
+5732: austrian choir
+5733: historic orchestral performance
+5734: deep surf music
+5735: punk ska
+5736: african experimental
+5737: indian techno
+5738: karntner volksmusik
+5739: pansori
+5740: esperanto
+5741: belfast metal
+5742: experimental poetry
+5743: classical piano trio
+5744: metal cristao
+5745: sarangi
+5746: zohioliin duu
+5747: german grindcore
+5748: french orchestra
+5749: dub product
+5750: icelandic choir
+5751: deep hardcore punk
+5752: moorish traditional
+5753: musica amapaense
+5754: deep punk rock
+5755: indie nordeste argentino
+5756: hard stoner rock
+5757: spanish black metal
+5758: chinese wind
+5759: gong
+5760: luxembourgian electronic
+5761: indonesian black metal
+5762: musica piemonteisa
+5763: marsmuziek
+5764: trecento
+5765: landler
+5766: thai psychedelic
+5767: folclore navarra
+5768: vintage gospel
+5769: greek clarinet
+5770: cimbalom
+5771: deep breakcore
+5772: cimbalova muzika
+5773: karelian folk
+5774: northumbrian folk
+5775: georgian polyphony
+5776: norwegian punk
+5777: palm wine guitar
+5778: magyar kabare
+5779: taiwan experimental
+5780: danish contemporary classical
+5781: czech classical piano
+5782: ethnomusicology
+5783: caucasian folk
+5784: goa psytrance
+5785: deep latin jazz
+5786: czech swing
+5787: dombra
+5788: recorder
+5789: modern free jazz
+5790: rhythm rock
+5791: cante alentejano
+5792: deep pop emo
+5793: moroccan traditional
+5794: malaysian traditional
+5795: slash punk
+5796: rock paraense
+5797: indie emo rock
+5798: musica roraimense
+5799: jota aragonesa
+5800: garo pop
+5801: latvian metal
+5802: thai traditional
+5803: lion city hardcore
+5804: italian baritone
+5805: cryptic black metal
+5806: classical guitar duo
+5807: animal singing
+5808: tibetan folk pop
+5809: afrikaans folk
+5810: turkish hardcore
+5811: zomi pop
+5812: botswana hip hop
+5813: czech psychedelic
+5814: song poem
+5815: rock cristao fluminense
+5816: metal uruguayo
+5817: irish death metal
+5818: turkmen hip hop
+5819: dogri pop
+5820: portuguese experimental
+5821: musique tchadienne
+5822: venezuelan metal
+5823: portuguese hardcore
+5824: band organ
+5825: grunge brasileiro
+5826: spanish contemporary classical
+5827: nadaswaram
+5828: italian heavy metal
+5829: troubadour
+5830: irish modern jazz
+5831: maldivian pop
+5832: santa fe indie
+5833: shehnai
+5834: post-rock latinoamericano
+5835: metal cearense
+5836: latin american baroque
+5837: brazilian classical piano
+5838: central american metal
+5839: tatar folk
+5840: inuit traditional
+5841: dizi
+5842: hard chime
+5843: indonesian electronic
+5844: italian industrial
+5845: grunge argentina
+5846: metal baiano
+5847: fife and drum
+5848: deep indie pop
+5849: necrogrind
+5850: appenzeller folk
+5851: classical guitar quartet
+5852: portuguese early music
+5853: chakma pop
+5854: baltic black metal
+5855: traditional irish singing
+5856: nu electro
+5857: classical contralto
+5858: harmonikka
+5859: sacred harp
+5860: nordnorsk ponk
+5861: italian orchestra
+5862: school choir
+5863: police band
+5864: euphonium
+5865: baoule
+5866: french rockabilly
+5867: chill-out trance
+5868: malian traditional
+5869: kamba pop
+5870: baltic choir
+5871: estonian jazz
+5872: vietnamese traditional
+5873: black metal argentino
+5874: korean hardcore
+5875: musique traditionnelle comorienne
+5876: mexican black metal
+5877: marathi balgeet
+5878: ghoststep
+5879: korean classical piano
+5880: accordion band
+5881: dubstep product
+5882: jaw harp
+5883: twin cities indie
+5884: korean minyo
+5885: yiddish folk
+5886: tanzanian traditional
+5887: iranian metal
+5888: czech contemporary classical
+5889: rock nacional feminino
+5890: ars subtilior
+5891: minnesang
+5892: vintage rockabilly
+5893: lagu jambi
+5894: huqin
+5895: romanian classical piano
+5896: balochi folk
+5897: musica sinfonica
+5898: kadongo kamu
+5899: skiffle
+5900: hawaiian punk
+5901: alphorn
+5902: jangle rock
+5903: bulgarian experimental
+5904: opera chorus
+5905: drone psych
+5906: central asian folk
+5907: polish experimental
+5908: trouvere
+5909: bells
+5910: galician jazz
+5911: uyghur folk
+5912: deep symphonic black metal
+5913: metal balear
+5914: new zealand classical
+5915: chilean black metal
+5916: luxembourgian metal
+5917: balkan classical piano
+5918: ethereal gothic
+5919: musica urbana oaxaquena
+5920: rhythm and boogie
+5921: metis fiddle
+5922: deep chill-out
+5923: ho munda
+5924: baltic classical piano
+5925: gayageum
+5926: kazakh traditional
+5927: australian choir
+5928: alternative hardcore
+5929: suomisaundi
+5930: deep neo-synthpop
+5931: canto a tenore
+5932: taarab
+5933: classical piano duo
+5934: montana metal
+5935: cypriot metal
+5936: jewish cantorial
+5937: twee indie pop
+5938: shantykoren
+5939: brazilian doom metal
+5940: pygmy music
+5941: musica puntana
+5942: czech experimental
+5943: ainu folk
+5944: horo
+5945: art song
+5946: modern downshift
+5947: puerto rican metal
+5948: boy soprano
+5949: wagnerian singing
+5950: deep orgcore
+5951: korean contemporary classical
+5952: austrian contemporary classical
+5953: classical horn
+5954: caribbean metal
+5955: classical bassoon
+5956: dark electro-industrial
+5957: lagu lampung
+5958: classical tuba
+5959: pibroch
+5960: cantonese traditional
+5961: peruvian death metal
+5962: metal nortista
+5963: rock noise
+5964: vanuatu music
+5965: baroque woodwind
+5966: indie tabasqueno
+5967: school ensemble
+5968: historical keyboard
+5969: polish early music
+5970: polish choir
+5971: baroque violin
+5972: vintage swoon
+5973: schrammelmusik
+5974: handbells
+5975: metal pernambucano
+5976: swiss contemporary classical
+5977: albanian iso polyphony
+5978: musica ponta-grossense
+5979: deep smooth r&b
+5980: russian oi
+5981: trad jazz catala
+5982: tahitian traditional
+5983: classical saxophone quartet
+5984: draaiorgel
+5985: burundian traditional
+5986: belgian classical piano
+5987: indonesian indigenous
+5988: musica maringaense
+5989: baroque cello
+5990: deep deep tech house
+5991: harsh noise wall
+5992: swedish jazz orkester
+5993: burkinabe traditional
+5994: musique alsacienne
+5995: musica mogiana
+5996: metal catarinense
+5997: kaba gaida
+5998: chip hop
+5999: marci brijuzi
+6000: kyrgyz traditional
+6001: faroese jazz
+6002: burmese traditional
+6003: lagu madura
+6004: balikpapan indie
+6005: ghanaian traditional
+6006: musique centrafricaine
+6007: bothy ballad
+6008: gay chorus
+6009: cambodian traditional
+6010: polish free jazz
+6011: italian violin
+6012: metal piauiense
+6013: rwandan traditional
+6014: peruvian experimental
+6015: cinematic dubstep
+6016: musica timor-leste
+6017: uzbek traditional
+6018: vintage western
+6019: lao traditional
+6020: wind quintet
+6021: tanci
+6022: chinese opera
+6023: wandelweiser
+6024: macedonian metal
+6025: papuan traditional
+6026: mazandarani folk
+6027: zampogna
+6028: wind ensemble
+6029: hungarian choir
+6030: italian mezzo-soprano
+6031: kenyan traditional
+6032: ugandan traditional
+6033: yemeni traditional
+6034: italian choir
+6035: quatuor a cordes
+6036: historic string quartet
+6037: tajik traditional
+6038: swiss classical piano
+6039: swazi traditional
+6040: trallalero
+6041: baroque brass
+6042: himene tarava
+6043: yunnan traditional
+6044: quartetto d'archi
+6045: classical string trio
+6046: youth orchestra

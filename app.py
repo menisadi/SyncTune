@@ -7,6 +7,11 @@ import pylast
 import streamlit as st
 import json
 
+
+def func(genre_file):
+    genres_list = [l.split(": ")[1][:-1] for l in genre_file]
+
+
 with open("tokens.json", "r") as file:
     tokens = json.load(file)
 
@@ -37,7 +42,7 @@ st.set_page_config(
     page_title=title,
     page_icon=icon,
     layout="centered",
-    initial_sidebar_state="auto",
+    # initial_sidebar_state="auto",
 )
 
 st.title("TuneSync")
@@ -45,21 +50,14 @@ st.title("TuneSync")
 total_count = network.get_user(USERNAME).get_playcount()
 st.write(f"Total Play Count: {total_count}")
 
-# Sidebar options for time periods
-chosen_time_period = st.sidebar.selectbox(
-    "Select Time Period", ["Weekly", "Monthly", "Yearly", "Overall"], index=0
-)
-time_period = period_dict.get(chosen_time_period)
-st.header(f"{chosen_time_period} data")
-
-st.sidebar.markdown("---")
+# st.sidebar.markdown("---")
 st.sidebar.markdown("Made by [Meni](https://github.com/menisadi)")
 st.sidebar.markdown("Powered by [Last.fm](https://www.last.fm/)")
 
 # Display current playing track
-st.subheader("Now Playing")
 now_playing = network.get_user(USERNAME).get_now_playing()
 if now_playing:
+    st.header("Now Playing")
     track = network.get_track(now_playing.artist, now_playing.title)
     album = now_playing.get_album().get_name()
     album_image_url = now_playing.get_cover_image()
@@ -79,21 +77,36 @@ if now_playing:
         st.markdown(f"**Artist**: {now_playing.artist}")
         st.markdown(f"**Album**: {album}")
         st.markdown(f"**Title**: {now_playing.title}")
+else:
+    st.markdown("*No track currently playing*")
+
+st.header("Summary")
+col1, col2 = st.columns([1, 2])
+
+with col1:
+    chosen_time_period = st.selectbox(
+        "Select Time Period",
+        ["Weekly", "Monthly", "Yearly", "Overall"],
+        index=0,
+    )
+
+time_period = period_dict.get(chosen_time_period)
 
 
 def display_wordcloud(tags_list: List[Tuple[str, float]]):
-    x, y = np.ogrid[:300, :300]
-    mask = (x - 150) ** 2 + (y - 150) ** 2 > 130**2
-    mask = 255 * mask.astype(int)
+    # x, y = np.ogrid[:300, :300]
+    # circle mask
+    # circle_mask = (x - 150) ** 2 + (y - 150) ** 2 > 130**2
+    # circle_mask = 255 * circle_mask.astype(int)
 
     tags_dict = dict(tags_list)
     wordcloud = WordCloud(
-        width=500,
-        height=500,
-        mask=mask,
+        width=230,
+        height=230,
         background_color="#282a36",
         contour_color="#282a36",
         contour_width=3,
+        # mask=mask,
     ).generate_from_frequencies(tags_dict)
     wordcloud.recolor(color_func=get_single_color_func("#f8f8f2"))
 
