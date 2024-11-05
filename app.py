@@ -47,8 +47,8 @@ st.set_page_config(
 
 st.title("TuneSync")
 
-total_count = network.get_user(USERNAME).get_playcount()
-st.write(f"Total Play Count: {total_count}")
+# total_count = network.get_user(USERNAME).get_playcount()
+# st.write(f"Total Play Count: {total_count}")
 
 st.sidebar.markdown("Made by [Meni](https://github.com/menisadi)")
 st.sidebar.markdown("Powered by [Last.fm](https://www.last.fm/)")
@@ -61,7 +61,7 @@ if now_playing:
     album = now_playing.get_album().get_name()
     album_image_url = now_playing.get_cover_image()
 
-    col1, col2 = st.columns([1, 4])
+    col1, col2, col3 = st.columns([2, 1, 6])
 
     with col1:
         if album_image_url:
@@ -73,9 +73,15 @@ if now_playing:
             st.write("")  # Fallback in case there is no image
 
     with col2:
-        st.markdown(f"**Artist**: {now_playing.artist}")
-        st.markdown(f"**Album**: {album}")
-        st.markdown(f"**Title**: {now_playing.title}")
+        st.write("")
+        st.markdown("**Artist**")
+        st.markdown("**Album**")
+        st.markdown("**Track**")
+    with col3:
+        st.write("")
+        st.markdown(now_playing.artist)
+        st.markdown(album)
+        st.markdown(now_playing.title)
 else:
     st.markdown("*No track currently playing*")
 
