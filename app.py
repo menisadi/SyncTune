@@ -154,5 +154,5 @@ for artist, weight in top_artists:
 # TODO: add mask to the cloud
 more_top_artists = get_top_artists(time_period, limit=20)
 all_tags = get_top_tags(more_top_artists, limit=0, prune_tag_list=3)
-st.subheader("Word Cloud of Top Tags")
+st.subheader("Top Tags")
 display_wordcloud(all_tags)
