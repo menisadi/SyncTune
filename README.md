@@ -1,5 +1,6 @@
 SyncTune
 ================
+![Gitea Last Commit](https://img.shields.io/gitea/last-commit/menisadi/SyncTune)
 
 **Under Construction**
 
