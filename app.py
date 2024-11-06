@@ -36,7 +36,7 @@ period_dict = {
     None: pylast.PERIOD_OVERALL,
 }
 
-title = "TuneSync"
+title = "SyncTune"
 icon = "🎧"
 st.set_page_config(
     page_title=title,
@@ -45,7 +45,7 @@ st.set_page_config(
     initial_sidebar_state="auto",
 )
 
-st.title("TuneSync")
+st.title("SyncTune")
 
 # total_count = network.get_user(USERNAME).get_playcount()
 # st.write(f"Total Play Count: {total_count}")

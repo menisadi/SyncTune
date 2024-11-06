@@ -1,4 +1,4 @@
-TuneSync
+SyncTune
 ================
 
 **Under Construction**
