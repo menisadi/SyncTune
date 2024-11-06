@@ -1,6 +1,7 @@
 SyncTune
 ================
 ![Gitea Last Commit](https://img.shields.io/github/last-commit/menisadi/SyncTune)
+
 **Under Construction**
 
 A Streamlit app that displays my Last.fm music dashboard.
