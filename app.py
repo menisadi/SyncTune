@@ -121,6 +121,18 @@ def get_top_artists(period, limit=3):
     return top_artists_names
 
 
+def get_top_songs(period, limit=3):
+    top_songs_items = network.get_user(USERNAME).get_top_tracks(
+        period=period, limit=limit
+    )
+    top_songs = [
+        (song.item.title, song.item.artist, int(song.weight))
+        for song in top_songs_items
+    ]
+
+    return top_songs
+
+
 def normalize_weights(tags: List[Tuple[str, int]]) -> List[Tuple[str, float]]:
     max_weight = max([w for _, w in tags])
     return [(t, w / max_weight) for t, w in tags]
@@ -156,12 +168,28 @@ top_artists = get_top_artists(time_period, limit=3)
 max_weight = max([w for _, w in top_artists])
 
 for artist, weight in top_artists:
-    col1, col2, col3 = st.columns([4, 1, 7])
+    col1, col2, col3 = st.columns([8, 1, 7])
     with col1:
         st.write(f"**{artist}**")
     with col2:
         st.write(f"**{weight}**")
     with col3:
+        st.progress(int(weight / max_weight * 100))
+
+# Display top songs
+st.subheader("Top Songs")
+top_songs = get_top_songs(time_period, limit=3)
+max_weight = max([w for _, _, w in top_songs])
+
+for song, artist, weight in top_songs:
+    col1, col2, col3, col4 = st.columns([4, 4, 1, 7])
+    with col1:
+        st.write(f"**{song}**")
+    with col2:
+        st.write(f"**{artist}**")
+    with col3:
+        st.write(f"**{weight}**")
+    with col4:
         st.progress(int(weight / max_weight * 100))
 
 # Tags wordcloud
