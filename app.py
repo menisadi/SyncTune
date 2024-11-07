@@ -37,7 +37,7 @@ period_dict = {
 }
 
 title = "SyncTune"
-icon = "🎧"
+icon = "🎵"
 st.set_page_config(
     page_title=title,
     page_icon=icon,
