@@ -1,2 +1,14 @@
 tokens.json
+
+# Python cache files and folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Additional directories to ignore
+.ipynb_checkpoints/
+.ipython/
+
+# Pylast cache
 .cache

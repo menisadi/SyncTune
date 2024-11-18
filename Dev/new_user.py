@@ -26,4 +26,16 @@ network = pylast.LastFMNetwork(
 SECOND_USER = "GlowingGroove"
 user2 = network.get_user(SECOND_USER)
 list_of_artists = [a.item.get_name() for a in user2.get_top_artists()]
-print(list_of_artists)
+print("\nTop artist:")
+print(list_of_artists[0])
+
+list_of_songs = [s.item.get_title() for s in user2.get_top_tracks()]
+print("\nTop song:")
+print(list_of_songs[0])
+
+now_playing = user2.get_now_playing()
+if now_playing:
+    print("\nNow playing:")
+    print(now_playing)
+else:
+    print("No song is currently playing")
