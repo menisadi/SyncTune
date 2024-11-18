@@ -12,6 +12,70 @@ def func(genre_file):
     genres_list = [l.split(": ")[1][:-1] for l in genre_file]
 
 
+def display_wordcloud(tags_list: List[Tuple[str, float]]):
+    tags_dict = dict(tags_list)
+    wordcloud = WordCloud(
+        width=230,
+        height=230,
+        background_color="#282a36",
+        contour_color="#282a36",
+        contour_width=3,
+    ).generate_from_frequencies(tags_dict)
+    wordcloud.recolor(color_func=get_single_color_func("#f8f8f2"))
+
+    st.image(wordcloud.to_array())
+
+
+def get_top_artists(period, limit=3):
+    top_artists = network.get_user(USERNAME).get_top_artists(period=period, limit=limit)
+    top_artists_names = [
+        (artist.item.name, int(artist.weight)) for artist in top_artists
+    ]
+
+    return top_artists_names
+
+
+def get_top_songs(period, limit=3):
+    top_songs_items = network.get_user(USERNAME).get_top_tracks(
+        period=period, limit=limit
+    )
+    top_songs = [
+        (song.item.title, song.item.artist, int(song.weight))
+        for song in top_songs_items
+    ]
+
+    return top_songs
+
+
+def normalize_weights(tags: List[Tuple[str, int]]) -> List[Tuple[str, float]]:
+    max_weight = max([w for _, w in tags])
+    return [(t, w / max_weight) for t, w in tags]
+
+
+def get_top_tags(
+    top_artists: List[Tuple[str, int]], limit: int = 0, prune_tag_list: int = 0
+) -> List[Tuple[str, float]]:
+    tags = dict()
+    for artist, artist_weight in top_artists:
+        top_tags = network.get_artist(artist).get_top_tags(limit=prune_tag_list)
+        for one_tag in top_tags:
+            # exclude the "seen live", as it is not interesting
+            if one_tag.item.name == "seen live":
+                continue
+            if one_tag.item.name in tags:
+                tags[one_tag.item.name] += int(one_tag.weight) * artist_weight
+            else:
+                tags[one_tag.item.name] = int(one_tag.weight) * artist_weight
+
+    normalized_tags = normalize_weights(list(tags.items()))
+    if limit == 0:
+        return normalized_tags
+    else:
+        # return the top tags in descending order of weight
+        limited_tags = sorted(normalized_tags, key=lambda x: x[1], reverse=True)[:limit]
+        return limited_tags
+
+
 with open("tokens.json", "r") as file:
     tokens = json.load(file)
 
@@ -96,70 +160,6 @@ with col1:
     )
 
 time_period = period_dict.get(chosen_time_period)
-
-
-def display_wordcloud(tags_list: List[Tuple[str, float]]):
-    tags_dict = dict(tags_list)
-    wordcloud = WordCloud(
-        width=230,
-        height=230,
-        background_color="#282a36",
-        contour_color="#282a36",
-        contour_width=3,
-    ).generate_from_frequencies(tags_dict)
-    wordcloud.recolor(color_func=get_single_color_func("#f8f8f2"))
-
-    st.image(wordcloud.to_array())
-
-
-def get_top_artists(period, limit=3):
-    top_artists = network.get_user(USERNAME).get_top_artists(period=period, limit=limit)
-    top_artists_names = [
-        (artist.item.name, int(artist.weight)) for artist in top_artists
-    ]
-
-    return top_artists_names
-
-
-def get_top_songs(period, limit=3):
-    top_songs_items = network.get_user(USERNAME).get_top_tracks(
-        period=period, limit=limit
-    )
-    top_songs = [
-        (song.item.title, song.item.artist, int(song.weight))
-        for song in top_songs_items
-    ]
-
-    return top_songs
-
-
-def normalize_weights(tags: List[Tuple[str, int]]) -> List[Tuple[str, float]]:
-    max_weight = max([w for _, w in tags])
-    return [(t, w / max_weight) for t, w in tags]
-
-
-def get_top_tags(
-    top_artists: List[Tuple[str, int]], limit: int = 0, prune_tag_list: int = 0
-) -> List[Tuple[str, float]]:
-    tags = dict()
-    for artist, artist_weight in top_artists:
-        top_tags = network.get_artist(artist).get_top_tags(limit=prune_tag_list)
-        for one_tag in top_tags:
-            # exclude the "seen live", as it is not interesting
-            if one_tag.item.name == "seen live":
-                continue
-            if one_tag.item.name in tags:
-                tags[one_tag.item.name] += int(one_tag.weight) * artist_weight
-            else:
-                tags[one_tag.item.name] = int(one_tag.weight) * artist_weight
-
-    normalized_tags = normalize_weights(list(tags.items()))
-    if limit == 0:
-        return normalized_tags
-    else:
-        # return the top tags in descending order of weight
-        limited_tags = sorted(normalized_tags, key=lambda x: x[1], reverse=True)[:limit]
-        return limited_tags
 
 
 # Display top 3 artists
