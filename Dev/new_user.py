@@ -22,3 +22,8 @@ network = pylast.LastFMNetwork(
     username=USERNAME,
     password_hash=PASSWORD_HASH,
 )
+
+SECOND_USER = "GlowingGroove"
+user2 = network.get_user(SECOND_USER)
+list_of_artists = [a.item.get_name() for a in user2.get_top_artists()]
+print(list_of_artists)
