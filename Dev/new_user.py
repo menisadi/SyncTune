@@ -25,6 +25,11 @@ network = pylast.LastFMNetwork(
 
 SECOND_USER = "GlowingGroove"
 user2 = network.get_user(SECOND_USER)
+
+total_playcount = user2.get_playcount()
+print("\nTotal playcount:")
+print(total_playcount)
+
 list_of_artists = [a.item.get_name() for a in user2.get_top_artists()]
 print("\nTop artist:")
 print(list_of_artists[0])
