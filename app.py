@@ -150,7 +150,7 @@ else:
     st.markdown("*No track currently playing*")
 
 st.header("Summary")
-col1, col2 = st.columns([1, 2])
+col1, col2, col3 = st.columns([1, 1, 3])
 
 with col1:
     chosen_time_period = st.selectbox(
@@ -158,13 +158,15 @@ with col1:
         ["Weekly", "Monthly", "Yearly", "Overall"],
         index=0,
     )
+with col2:
+    chosen_top_k = st.selectbox("How many to show?", [1, 3, 5, 10], index=1)
 
 time_period = period_dict.get(chosen_time_period)
 
 
 # Display top 3 artists
-st.subheader("Top 3 Artists")
-top_artists = get_top_artists(time_period, limit=3)
+st.subheader(f"Top {chosen_top_k} Artists")
+top_artists = get_top_artists(time_period, limit=chosen_top_k)
 max_weight = max([w for _, w in top_artists])
 
 for artist, weight in top_artists:
@@ -177,8 +179,8 @@ for artist, weight in top_artists:
         st.progress(int(weight / max_weight * 100))
 
 # Display top songs
-st.subheader("Top Songs")
-top_songs = get_top_songs(time_period, limit=3)
+st.subheader(f"Top {chosen_top_k} Songs")
+top_songs = get_top_songs(time_period, limit=chosen_top_k)
 max_weight = max([w for _, _, w in top_songs])
 
 for song, artist, weight in top_songs:
@@ -193,8 +195,7 @@ for song, artist, weight in top_songs:
         st.progress(int(weight / max_weight * 100))
 
 # Tags wordcloud
-# TODO: add mask to the cloud
-more_top_artists = get_top_artists(time_period, limit=20)
+more_top_artists = get_top_artists(time_period, limit=50)  # TODO: 20 is arbitrary
 all_tags = get_top_tags(more_top_artists, limit=0, prune_tag_list=3)
 st.subheader("Top Tags")
 display_wordcloud(all_tags)
