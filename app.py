@@ -122,6 +122,13 @@ st.sidebar.title("Settings")
 users_list = ["menisadig", "GlowingGroove"]
 chosen_user = st.sidebar.selectbox("User", users_list, index=0)
 
+chosen_time_period = st.sidebar.selectbox(
+    "Time Period",
+    ["Weekly", "Monthly", "Yearly", "Overall"],
+    index=0,
+)
+chosen_top_k = st.sidebar.selectbox("How many to show?", [1, 3, 5, 10], index=1)
+
 # adding some space
 st.sidebar.markdown("---")
 
@@ -160,20 +167,10 @@ if now_playing:
 else:
     st.markdown("*No track currently playing*")
 
-st.header("Summary")
-col1, col2, col3 = st.columns([1, 1, 3])
-
-with col1:
-    chosen_time_period = st.selectbox(
-        "Time Period",
-        ["Weekly", "Monthly", "Yearly", "Overall"],
-        index=0,
-    )
-with col2:
-    chosen_top_k = st.selectbox("How many to show?", [1, 3, 5, 10], index=1)
+st.header(f"{chosen_time_period} Summary")
+st.markdown(f":gray[{chosen_user}]")
 
 time_period = period_dict.get(chosen_time_period)
-
 
 # Display top 3 artists
 st.subheader(f"Top {chosen_top_k} Artists")
