@@ -1,3 +1,4 @@
+import time
 import numpy as np
 from typing import List, Tuple
 from wordcloud import WordCloud, get_single_color_func
@@ -80,6 +81,8 @@ def get_top_tags(
 
 with open("tokens.json", "r") as file:
     tokens = json.load(file)
+with open("user_names.json", "r") as file:
+    user_names = json.load(file)
 
 API_KEY = tokens.get("last_api_key")
 API_SECRET = tokens.get("last_secret")
@@ -119,8 +122,11 @@ st.title("SyncTune")
 # Sidebar
 st.sidebar.title("Settings")
 
-users_list = ["menisadig", "GlowingGroove"]
-chosen_user = st.sidebar.selectbox("User", users_list, index=0)
+# import user_names from json
+
+people_names = list(user_names.keys())
+chosen_person = st.sidebar.selectbox("User", people_names, index=0)
+chosen_user = user_names.get(chosen_person)
 
 chosen_time_period = st.sidebar.selectbox(
     "Time Period",
@@ -136,76 +142,94 @@ st.sidebar.markdown("Made by [Meni](https://github.com/menisadi)")
 st.sidebar.markdown("Powered by [Last.fm](https://www.last.fm/)")
 
 # Display current playing track
-now_playing = network.get_user(chosen_user).get_now_playing()
-if now_playing:
-    st.header("Now Playing")
-    track = network.get_track(now_playing.artist, now_playing.title)
-    album = now_playing.get_album().get_name()
-    album_image_url = now_playing.get_cover_image()
+placeholder = st.empty()
+time_interval = 60 * 1
+time_loop = 200
+wordcloud_artist_limit = 20
 
-    col1, col2, col3 = st.columns([2, 1, 6])
+for seconds in range(time_loop):
+    last_updated = time.time()
+    should_we_update = False
+    now_playing = network.get_user(chosen_user).get_now_playing()
+    album_image_url = ""
 
-    with col1:
-        if album_image_url:
-            st.image(
-                album_image_url,
-                caption="",
-            )
+    # for the extra part
+    time_period = period_dict.get(chosen_time_period)
+    top_artists = get_top_artists(chosen_user, time_period, limit=chosen_top_k)
+    max_weight = max([w for _, w in top_artists])
+
+    top_songs = get_top_songs(chosen_user, time_period, limit=chosen_top_k)
+    songs_max_weight = max([w for _, _, w in top_songs])
+
+    # for the tags wordcloud
+    more_top_artists = get_top_artists(
+        chosen_user, time_period, limit=wordcloud_artist_limit
+    )
+
+    with placeholder.container():
+        st.markdown(f"### :gray[{chosen_person}]")
+        if now_playing:
+            st.header("Now Playing")
+            track = network.get_track(now_playing.artist, now_playing.title)
+            album = now_playing.get_album().get_name()
+            album_image_url = now_playing.get_cover_image()
+
+            col1, col2, col3 = st.columns([2, 1, 6])
+
+            with col1:
+                if album_image_url != "":
+                    st.image(
+                        album_image_url,
+                        caption="",
+                    )
+                else:
+                    st.write("")  # Fallback in case there is no image
+
+            with col2:
+                st.write("")
+                st.markdown("**Artist**")
+                st.markdown("**Album**")
+                st.markdown("**Track**")
+            with col3:
+                st.write("")
+                st.markdown(now_playing.artist)
+                st.markdown(album)
+                st.markdown(now_playing.title)
+
         else:
-            st.write("")  # Fallback in case there is no image
+            st.markdown("*No track currently playing*")
 
-    with col2:
-        st.write("")
-        st.markdown("**Artist**")
-        st.markdown("**Album**")
-        st.markdown("**Track**")
-    with col3:
-        st.write("")
-        st.markdown(now_playing.artist)
-        st.markdown(album)
-        st.markdown(now_playing.title)
-else:
-    st.markdown("*No track currently playing*")
+        st.header(f"{chosen_time_period} Summary")
 
-st.header(f"{chosen_time_period} Summary")
-st.markdown(f":gray[{chosen_user}]")
+        # Display top 3 artists
+        st.subheader(f"Top {chosen_top_k} Artists")
 
-time_period = period_dict.get(chosen_time_period)
+        for artist, weight in top_artists:
+            col1, col2, col3 = st.columns([8, 1, 7])
+            with col1:
+                st.write(f"**{artist}**")
+            with col2:
+                st.write(f"**{weight}**")
+            with col3:
+                st.progress(int(weight / max_weight * 100))
 
-# Display top 3 artists
-st.subheader(f"Top {chosen_top_k} Artists")
-top_artists = get_top_artists(chosen_user, time_period, limit=chosen_top_k)
-max_weight = max([w for _, w in top_artists])
+        # Display top songs
+        st.subheader(f"Top {chosen_top_k} Songs")
 
-for artist, weight in top_artists:
-    col1, col2, col3 = st.columns([8, 1, 7])
-    with col1:
-        st.write(f"**{artist}**")
-    with col2:
-        st.write(f"**{weight}**")
-    with col3:
-        st.progress(int(weight / max_weight * 100))
+        for song, artist, weight in top_songs:
+            col1, col2, col3, col4 = st.columns([4, 4, 1, 7])
+            with col1:
+                st.write(f"**{song}**")
+            with col2:
+                st.write(f"**{artist}**")
+            with col3:
+                st.write(f"**{weight}**")
+            with col4:
+                st.progress(int(weight / songs_max_weight * 100))
 
-# Display top songs
-st.subheader(f"Top {chosen_top_k} Songs")
-top_songs = get_top_songs(chosen_user, time_period, limit=chosen_top_k)
-max_weight = max([w for _, _, w in top_songs])
+        # Tags wordcloud
+        all_tags = get_top_tags(more_top_artists, limit=0, prune_tag_list=3)
+        st.subheader("Top Tags")
+        display_wordcloud(all_tags)
 
-for song, artist, weight in top_songs:
-    col1, col2, col3, col4 = st.columns([4, 4, 1, 7])
-    with col1:
-        st.write(f"**{song}**")
-    with col2:
-        st.write(f"**{artist}**")
-    with col3:
-        st.write(f"**{weight}**")
-    with col4:
-        st.progress(int(weight / max_weight * 100))
-
-# Tags wordcloud
-more_top_artists = get_top_artists(
-    chosen_user, time_period, limit=50
-)  # TODO: 20 is arbitrary
-all_tags = get_top_tags(more_top_artists, limit=0, prune_tag_list=3)
-st.subheader("Top Tags")
-display_wordcloud(all_tags)
+        time.sleep(1)
