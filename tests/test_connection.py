@@ -18,6 +18,10 @@ network = pylast.LastFMNetwork(
     password_hash=PASSWORD_HASH,
 )
 
-now_playing = network.get_user(USERNAME).get_now_playing()
+second_user_name = "GlowingGroove"
+other_user = network.get_user(second_user_name)
+now_playing = other_user.get_now_playing()
+top_artists = other_user.get_top_artists(period=pylast.PERIOD_7DAYS, limit=3)
 
 print(now_playing)
+print(top_artists)

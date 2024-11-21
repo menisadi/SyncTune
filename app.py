@@ -26,8 +26,10 @@ def display_wordcloud(tags_list: List[Tuple[str, float]]):
     st.image(wordcloud.to_array())
 
 
-def get_top_artists(period, limit=3):
-    top_artists = network.get_user(USERNAME).get_top_artists(period=period, limit=limit)
+def get_top_artists(user_name, period, limit=3):
+    top_artists = network.get_user(user_name).get_top_artists(
+        period=period, limit=limit
+    )
     top_artists_names = [
         (artist.item.name, int(artist.weight)) for artist in top_artists
     ]
@@ -35,8 +37,8 @@ def get_top_artists(period, limit=3):
     return top_artists_names
 
 
-def get_top_songs(period, limit=3):
-    top_songs_items = network.get_user(USERNAME).get_top_tracks(
+def get_top_songs(user_name, period, limit=3):
+    top_songs_items = network.get_user(user_name).get_top_tracks(
         period=period, limit=limit
     )
     top_songs = [
@@ -114,11 +116,20 @@ st.title("SyncTune")
 # total_count = network.get_user(USERNAME).get_playcount()
 # st.write(f"Total Play Count: {total_count}")
 
+# Sidebar
+st.sidebar.title("Settings")
+
+users_list = ["menisadig", "GlowingGroove"]
+chosen_user = st.sidebar.selectbox("User", users_list, index=0)
+
+# adding some space
+st.sidebar.markdown("---")
+
 st.sidebar.markdown("Made by [Meni](https://github.com/menisadi)")
 st.sidebar.markdown("Powered by [Last.fm](https://www.last.fm/)")
 
 # Display current playing track
-now_playing = network.get_user(USERNAME).get_now_playing()
+now_playing = network.get_user(chosen_user).get_now_playing()
 if now_playing:
     st.header("Now Playing")
     track = network.get_track(now_playing.artist, now_playing.title)
@@ -154,7 +165,7 @@ col1, col2, col3 = st.columns([1, 1, 3])
 
 with col1:
     chosen_time_period = st.selectbox(
-        "Select Time Period",
+        "Time Period",
         ["Weekly", "Monthly", "Yearly", "Overall"],
         index=0,
     )
@@ -166,7 +177,7 @@ time_period = period_dict.get(chosen_time_period)
 
 # Display top 3 artists
 st.subheader(f"Top {chosen_top_k} Artists")
-top_artists = get_top_artists(time_period, limit=chosen_top_k)
+top_artists = get_top_artists(chosen_user, time_period, limit=chosen_top_k)
 max_weight = max([w for _, w in top_artists])
 
 for artist, weight in top_artists:
@@ -180,7 +191,7 @@ for artist, weight in top_artists:
 
 # Display top songs
 st.subheader(f"Top {chosen_top_k} Songs")
-top_songs = get_top_songs(time_period, limit=chosen_top_k)
+top_songs = get_top_songs(chosen_user, time_period, limit=chosen_top_k)
 max_weight = max([w for _, _, w in top_songs])
 
 for song, artist, weight in top_songs:
@@ -195,7 +206,9 @@ for song, artist, weight in top_songs:
         st.progress(int(weight / max_weight * 100))
 
 # Tags wordcloud
-more_top_artists = get_top_artists(time_period, limit=50)  # TODO: 20 is arbitrary
+more_top_artists = get_top_artists(
+    chosen_user, time_period, limit=50
+)  # TODO: 20 is arbitrary
 all_tags = get_top_tags(more_top_artists, limit=0, prune_tag_list=3)
 st.subheader("Top Tags")
 display_wordcloud(all_tags)
