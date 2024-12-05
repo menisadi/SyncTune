@@ -1,19 +1,18 @@
 import time
-import numpy as np
 from typing import List, Tuple
 from wordcloud import WordCloud, get_single_color_func
-import matplotlib.pyplot as plt
-from collections import Counter
 import pylast
 import streamlit as st
+import streamlit_authenticator as stauth
 import json
 
 
-def func(genre_file):
-    genres_list = [l.split(": ")[1][:-1] for l in genre_file]
+def func(genre_file: list[str]):
+    genres_list = [line.split(": ")[1][:-1] for line in genre_file]
+    return genres_list
 
 
-def display_wordcloud(tags_list: List[Tuple[str, float]]):
+def display_wordcloud(tags_list: list[tuple[str, float]]):
     tags_dict = dict(tags_list)
     wordcloud = WordCloud(
         width=230,
@@ -143,7 +142,7 @@ st.sidebar.markdown("Powered by [Last.fm](https://www.last.fm/)")
 
 # Display current playing track
 placeholder = st.empty()
-time_interval = 60 * 1
+time_interval = 30 * 1
 time_loop = 200
 wordcloud_artist_limit = 20
 
