@@ -1,6 +1,9 @@
 tokens.json
 user_names.json
 
+pyrightconfig.json
+pyproject.toml
+
 # Python cache files and folders
 __pycache__/
 *.pyc
