@@ -4,6 +4,7 @@ from typing import List, Tuple
 from wordcloud import WordCloud, get_single_color_func
 import pylast
 import streamlit as st
+import bcrypt
 
 # FIX: add except pylast.WSError to all network calls
 
@@ -79,18 +80,56 @@ def get_top_tags(
         return limited_tags
 
 
-def login(secrets):
+def login(secrets, max_attempts=5, cooldown_period=300):
+    """
+    Args:
+        secrets: The secret dictionary containing the hashed password.
+        max_attempts: Maximum number of allowed login attempts.
+        cooldown_period: Time (in seconds) to block login after exceeding max_attempts.
+    """
     st.title("Login")
+
+    # Initialize session state for login attempts
+    if "login_attempts" not in st.session_state:
+        st.session_state["login_attempts"] = 0
+        st.session_state["last_attempt_time"] = None
+
+    if st.session_state["last_attempt_time"]:
+        time_since_last_attempt = time.time() - st.session_state["last_attempt_time"]
+        if (
+            st.session_state["login_attempts"] >= max_attempts
+            and time_since_last_attempt < cooldown_period
+        ):
+            remaining_cooldown = int(cooldown_period - time_since_last_attempt)
+            st.error(
+                f"Too many failed attempts. Try again in {remaining_cooldown} seconds."
+            )
+            return
+
     password = st.text_input("Password", type="password")
     login_button = st.button("Login")
 
     if login_button:
-        if password == secrets.get("password"):
+        hashed_password = secrets.get("hashed_password")
+
+        # Check the password
+        if bcrypt.checkpw(password.encode(), hashed_password.encode()):
             st.session_state["authenticated"] = True
+            st.session_state["login_attempts"] = 0  # Reset attempts on successful login
             st.success("Logged in successfully!")
             st.rerun()
         else:
-            st.error("Invalid password")
+            # Increment failed login attempts
+            st.session_state["login_attempts"] += 1
+            st.session_state["last_attempt_time"] = time.time()
+            attempts_left = max_attempts - st.session_state["login_attempts"]
+
+            if attempts_left > 0:
+                st.error(f"Invalid password. {attempts_left} attempts remaining.")
+            else:
+                st.error(
+                    f"Too many failed attempts. Try again in {cooldown_period} seconds."
+                )
 
 
 def main():
