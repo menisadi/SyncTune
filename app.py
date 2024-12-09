@@ -1,10 +1,9 @@
 import time
+import json
 from typing import List, Tuple
 from wordcloud import WordCloud, get_single_color_func
 import pylast
 import streamlit as st
-import streamlit_authenticator as stauth
-import json
 
 
 def func(genre_file: list[str]):
@@ -78,31 +77,27 @@ def get_top_tags(
         return limited_tags
 
 
-def login(users: dict[str, dict[str, str]]):
+def login(secrets):
     st.title("Login")
-    username = st.text_input("Username")
     password = st.text_input("Password", type="password")
     login_button = st.button("Login")
 
     if login_button:
-        if username in users.keys() and users[username]["password"] == password:
+        if password == secrets.get("password"):
             st.session_state["authenticated"] = True
-            st.session_state["username"] = username
+            st.success("Logged in successfully!")
+            st.rerun()
         else:
-            st.error("Invalid username or password")
+            st.error("Invalid password")
 
 
 def main():
     st.title("SyncTune")
 
-    # total_count = network.get_user(USERNAME).get_playcount()
-    # st.write(f"Total Play Count: {total_count}")
-
     # Sidebar
     st.sidebar.title("Settings")
 
     # import user_names from json
-
     people_names = list(user_names.keys())
     chosen_person = st.sidebar.selectbox("User", people_names, index=0)
     chosen_user = user_names.get(chosen_person).get("username")
@@ -218,6 +213,8 @@ with open("tokens.json", "r") as file:
     tokens = json.load(file)
 with open("user_names.json", "r") as file:
     user_names = json.load(file)
+with open("secret.json", "r") as file:
+    secret = json.load(file)
 
 
 API_KEY = tokens.get("last_api_key")
@@ -254,6 +251,6 @@ if "authenticated" not in st.session_state:
     st.session_state["authenticated"] = False
 
 if not st.session_state["authenticated"]:
-    login(user_names)
+    login(secrets=secret)
 else:
     main()

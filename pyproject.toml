@@ -1,0 +1,7 @@
+[tool.ruff]
+exclude = ["venv", ".venv", "__pycache__"]  # Optional, to exclude venv files
+ignore = [
+    "ANN001",  # Missing type annotation for function argument
+    "ANN002",  # Missing type annotation for function return value
+    "ANN003",  # Missing type annotation for variable
+]
