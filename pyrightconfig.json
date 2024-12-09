@@ -1,4 +1,7 @@
 {
+   "reportAssignmentType" : "warning",
+   "reportOperatorIssue" : "warning",
+   "typeCheckingMode" : "standard",
    "venv" : "jam",
    "venvPath" : "/Users/meni/.pyenv/versions"
 }
