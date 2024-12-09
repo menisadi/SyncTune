@@ -5,6 +5,8 @@ from wordcloud import WordCloud, get_single_color_func
 import pylast
 import streamlit as st
 
+# FIX: add except pylast.WSError to all network calls
+
 
 def func(genre_file: list[str]):
     genres_list = [line.split(": ")[1][:-1] for line in genre_file]
