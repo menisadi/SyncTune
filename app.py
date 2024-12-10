@@ -171,10 +171,16 @@ def main():
         # for the extra part
         time_period = period_dict.get(chosen_time_period)
         top_artists = get_top_artists(chosen_user, time_period, limit=chosen_top_k)
-        max_weight = max([w for _, w in top_artists])
+        if len(top_artists) > 0:
+            max_weight = max([w for _, w in top_artists])
+        else:
+            max_weight = 1
 
         top_songs = get_top_songs(chosen_user, time_period, limit=chosen_top_k)
-        songs_max_weight = max([w for _, _, w in top_songs])
+        if len(top_songs) > 0:
+            songs_max_weight = max([w for _, _, w in top_songs])
+        else:
+            songs_max_weight = 1
 
         # for the tags wordcloud
         more_top_artists = get_top_artists(
@@ -216,36 +222,39 @@ def main():
 
             st.header(f"{chosen_time_period} Summary")
 
-            # Display top 3 artists
-            st.subheader(f"Top {chosen_top_k} Artists")
+            if len(top_artists) == 0:
+                st.write("No data found.")
+            else:
+                # Display top 3 artists
+                st.subheader(f"Top {chosen_top_k} Artists")
 
-            for artist, weight in top_artists:
-                col1, col2, col3 = st.columns([8, 1, 7])
-                with col1:
-                    st.write(f"**{artist}**")
-                with col2:
-                    st.write(f"**{weight}**")
-                with col3:
-                    st.progress(int(weight / max_weight * 100))
+                for artist, weight in top_artists:
+                    col1, col2, col3 = st.columns([8, 1, 7])
+                    with col1:
+                        st.write(f"**{artist}**")
+                    with col2:
+                        st.write(f"**{weight}**")
+                    with col3:
+                        st.progress(int(weight / max_weight * 100))
 
-            # Display top songs
-            st.subheader(f"Top {chosen_top_k} Songs")
+                # Display top songs
+                st.subheader(f"Top {chosen_top_k} Songs")
 
-            for song, artist, weight in top_songs:
-                col1, col2, col3, col4 = st.columns([4, 4, 1, 7])
-                with col1:
-                    st.write(f"**{song}**")
-                with col2:
-                    st.write(f"**{artist}**")
-                with col3:
-                    st.write(f"**{weight}**")
-                with col4:
-                    st.progress(int(weight / songs_max_weight * 100))
+                for song, artist, weight in top_songs:
+                    col1, col2, col3, col4 = st.columns([4, 4, 1, 7])
+                    with col1:
+                        st.write(f"**{song}**")
+                    with col2:
+                        st.write(f"**{artist}**")
+                    with col3:
+                        st.write(f"**{weight}**")
+                    with col4:
+                        st.progress(int(weight / songs_max_weight * 100))
 
-            # Tags wordcloud
-            all_tags = get_top_tags(more_top_artists, limit=0, prune_tag_list=3)
-            st.subheader("Top Tags")
-            display_wordcloud(all_tags)
+                # Tags wordcloud
+                all_tags = get_top_tags(more_top_artists, limit=0, prune_tag_list=3)
+                st.subheader("Top Tags")
+                display_wordcloud(all_tags)
 
             time.sleep(1)
 
