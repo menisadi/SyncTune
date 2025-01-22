@@ -141,7 +141,7 @@ def main():
     # import user_names from json
     people_names = list(user_names.keys())
     chosen_person = st.sidebar.selectbox("User", people_names, index=0)
-    chosen_user = user_names.get(chosen_person).get("username")
+    chosen_user = user_names.get(chosen_person)
 
     chosen_time_period = st.sidebar.selectbox(
         "Time Period",
@@ -259,12 +259,16 @@ def main():
             time.sleep(1)
 
 
-with open("tokens.json", "r") as file:
-    tokens = json.load(file)
-with open("user_names.json", "r") as file:
-    user_names = json.load(file)
-with open("secret.json", "r") as file:
-    secret = json.load(file)
+tokens = st.secrets["tokens"]
+user_names = st.secrets["users"]
+secret = st.secrets["login"]
+
+# with open("tokens.json", "r") as file:
+#     tokens = json.load(file)
+# with open("user_names.json", "r") as file:
+#     user_names = json.load(file)
+# with open("secret.json", "r") as file:
+#     secret = json.load(file)
 
 
 API_KEY = tokens.get("last_api_key")

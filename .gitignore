@@ -1,5 +1,6 @@
 tokens.json
 user_names.json
+secrets.toml
 
 pyrightconfig.json
 pyproject.toml
