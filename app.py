@@ -1,5 +1,4 @@
 import time
-import json
 from typing import List, Tuple
 from wordcloud import WordCloud, get_single_color_func
 import pylast
@@ -138,7 +137,7 @@ def main():
     # Sidebar
     st.sidebar.title("Settings")
 
-    # import user_names from json
+    # import user_names from toml
     people_names = list(user_names.keys())
     chosen_person = st.sidebar.selectbox("User", people_names, index=0)
     chosen_user = user_names.get(chosen_person)
@@ -262,14 +261,6 @@ def main():
 tokens = st.secrets["tokens"]
 user_names = st.secrets["users"]
 secret = st.secrets["login"]
-
-# with open("tokens.json", "r") as file:
-#     tokens = json.load(file)
-# with open("user_names.json", "r") as file:
-#     user_names = json.load(file)
-# with open("secret.json", "r") as file:
-#     secret = json.load(file)
-
 
 API_KEY = tokens.get("last_api_key")
 API_SECRET = tokens.get("last_secret")
